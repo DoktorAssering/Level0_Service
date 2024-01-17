@@ -1,0 +1,868 @@
+Server: 2024/01/16 23:34:03 server.go:94: Connected to the database...
+Server: 2024/01/16 23:34:03 server.go:48: sql: unknown driver "postgres" (forgotten import?)
+Server: 2024/01/16 23:35:19 server.go:95: Connected to the database...
+Server: 2024/01/16 23:35:19 server.go:107: Connected to the database successfully
+Server: 2024/01/16 23:35:19 server.go:112: Connecting to NATS...
+Server: 2024/01/16 23:35:19 server.go:119: Connected to NATS successfully
+Server: 2024/01/16 23:35:19 server.go:68: Server is online
+Server: 2024/01/16 23:35:19 server.go:90: Server is starting...
+Server: 2024/01/16 23:37:06 server.go:83: Received signal: interrupt
+Server: 2024/01/16 23:37:06 server.go:138: Server is shutting down...
+Server: 2024/01/16 23:41:13 server.go:95: Connected to the database...
+Server: 2024/01/16 23:41:13 server.go:107: Connected to the database successfully
+Server: 2024/01/16 23:41:13 server.go:112: Connecting to NATS...
+Server: 2024/01/16 23:41:13 server.go:119: Connected to NATS successfully
+Server: 2024/01/16 23:41:13 server.go:90: Server is starting...
+Server: 2024/01/16 23:41:23 server.go:73: Server is offline: 0000-00-00 00:00:00
+Server: 2024/01/16 23:41:33 server.go:73: Server is offline: 0000-00-00 00:00:00
+Server: 2024/01/16 23:41:43 server.go:73: Server is offline: 0000-00-00 00:00:00
+Server: 2024/01/16 23:41:53 server.go:73: Server is offline: 0000-00-00 00:00:00
+Server: 2024/01/16 23:42:03 server.go:73: Server is offline: 0000-00-00 00:00:00
+Server: 2024/01/16 23:42:13 server.go:73: Server is offline: 0000-00-00 00:00:00
+Server: 2024/01/16 23:42:23 server.go:73: Server is offline: 0000-00-00 00:00:00
+Server: 2024/01/16 23:42:33 server.go:73: Server is offline: 0000-00-00 00:00:00
+Server: 2024/01/16 23:42:43 server.go:73: Server is offline: 0000-00-00 00:00:00
+Server: 2024/01/16 23:42:53 server.go:73: Server is offline: 0000-00-00 00:00:00
+Server: 2024/01/16 23:43:03 server.go:73: Server is offline: 0000-00-00 00:00:00
+Server: 2024/01/16 23:43:13 server.go:73: Server is offline: 0000-00-00 00:00:00
+Server: 2024/01/16 23:43:23 server.go:73: Server is offline: 0000-00-00 00:00:00
+Server: 2024/01/16 23:43:33 server.go:73: Server is offline: 0000-00-00 00:00:00
+Server: 2024/01/16 23:43:43 server.go:73: Server is offline: 0000-00-00 00:00:00
+Server: 2024/01/16 23:43:53 server.go:73: Server is offline: 0000-00-00 00:00:00
+Server: 2024/01/16 23:44:03 server.go:73: Server is offline: 0000-00-00 00:00:00
+Server: 2024/01/16 23:44:13 server.go:73: Server is offline: 0000-00-00 00:00:00
+Server: 2024/01/16 23:44:23 server.go:73: Server is offline: 0000-00-00 00:00:00
+Server: 2024/01/16 23:44:33 server.go:73: Server is offline: 0000-00-00 00:00:00
+Server: 2024/01/16 23:44:43 server.go:73: Server is offline: 0000-00-00 00:00:00
+Server: 2024/01/16 23:44:53 server.go:73: Server is offline: 0000-00-00 00:00:00
+Server: 2024/01/16 23:45:03 server.go:73: Server is offline: 0000-00-00 00:00:00
+Server: 2024/01/16 23:45:13 server.go:83: Received signal: interrupt
+Server: 2024/01/16 23:45:13 server.go:138: Server is shutting down...
+Server: 2024/01/16 23:45:13 server.go:73: Server is offline: 0000-00-00 00:00:00
+Server: 2024/01/16 23:46:48 server.go:95: Connected to the database...
+Server: 2024/01/16 23:46:49 server.go:107: Connected to the database successfully
+Server: 2024/01/16 23:46:49 server.go:112: Connecting to NATS...
+Server: 2024/01/16 23:46:49 server.go:119: Connected to NATS successfully
+Server: 2024/01/16 23:46:49 server.go:90: Server is starting...
+Server: 2024/01/16 23:46:59 server.go:73: Server offline 2024-01-16 23:46:59.0148307 +0300 MSK m=+10.089063601
+Server: 2024/01/16 23:47:09 server.go:73: Server offline 2024-01-16 23:47:09.015276 +0300 MSK m=+20.089508901
+Server: 2024/01/16 23:47:19 server.go:73: Server offline 2024-01-16 23:47:19.020448 +0300 MSK m=+30.094680901
+Server: 2024/01/16 23:47:23 server.go:83: Received signal: interrupt
+Server: 2024/01/16 23:47:23 server.go:138: Server is shutting down...
+Server: 2024/01/16 23:47:28 server.go:95: Connected to the database...
+Server: 2024/01/16 23:47:28 server.go:107: Connected to the database successfully
+Server: 2024/01/16 23:47:28 server.go:112: Connecting to NATS...
+Server: 2024/01/16 23:47:28 server.go:119: Connected to NATS successfully
+Server: 2024/01/16 23:47:28 server.go:90: Server is starting...
+Server: 2024/01/16 23:47:38 server.go:73: Server offline 2024-01-16 23:47:38.6281675 +0300 MSK m=+10.211177701
+Server: 2024/01/16 23:47:46 server.go:83: Received signal: interrupt
+Server: 2024/01/16 23:47:46 server.go:138: Server is shutting down...
+Server: 2024/01/16 23:47:48 server.go:73: Server offline 2024-01-16 23:47:48.6301218 +0300 MSK m=+20.213132001
+Server: 2024/01/16 23:48:41 server.go:97: Connected to the database...
+Server: 2024/01/16 23:48:41 server.go:109: Connected to the database successfully
+Server: 2024/01/16 23:48:41 server.go:114: Connecting to NATS...
+Server: 2024/01/16 23:48:41 server.go:121: Connected to NATS successfully
+Server: 2024/01/16 23:48:41 server.go:68: Server is online
+Server: 2024/01/16 23:48:41 server.go:92: Server is starting...
+Server: 2024/01/16 23:48:51 server.go:73: Server online 2024-01-16 23:48:51.4823324 +0300 MSK m=+10.104040201
+Server: 2024/01/16 23:49:01 server.go:73: Server online 2024-01-16 23:49:01.4952383 +0300 MSK m=+20.116946101
+Server: 2024/01/16 23:49:11 server.go:73: Server online 2024-01-16 23:49:11.5090026 +0300 MSK m=+30.130710401
+Server: 2024/01/16 23:49:21 server.go:73: Server online 2024-01-16 23:49:21.5233392 +0300 MSK m=+40.145047001
+Server: 2024/01/16 23:49:31 server.go:73: Server online 2024-01-16 23:49:31.5389489 +0300 MSK m=+50.160656701
+Server: 2024/01/16 23:49:41 server.go:73: Server online 2024-01-16 23:49:41.5404073 +0300 MSK m=+60.162115101
+Server: 2024/01/16 23:49:51 server.go:73: Server online 2024-01-16 23:49:51.5459166 +0300 MSK m=+70.167624401
+Server: 2024/01/16 23:50:01 server.go:73: Server online 2024-01-16 23:50:01.5482843 +0300 MSK m=+80.169992101
+Server: 2024/01/16 23:50:11 server.go:73: Server online 2024-01-16 23:50:11.5589226 +0300 MSK m=+90.180630401
+Server: 2024/01/16 23:50:21 server.go:73: Server online 2024-01-16 23:50:21.5714646 +0300 MSK m=+100.193172401
+Server: 2024/01/16 23:50:31 server.go:73: Server online 2024-01-16 23:50:31.5765 +0300 MSK m=+110.198207801
+Server: 2024/01/16 23:50:41 server.go:73: Server online 2024-01-16 23:50:41.5815226 +0300 MSK m=+120.203230401
+Server: 2024/01/16 23:50:51 server.go:73: Server online 2024-01-16 23:50:51.5934294 +0300 MSK m=+130.215137201
+Server: 2024/01/16 23:51:01 server.go:73: Server online 2024-01-16 23:51:01.6005167 +0300 MSK m=+140.222224501
+Server: 2024/01/16 23:51:11 server.go:73: Server online 2024-01-16 23:51:11.6011051 +0300 MSK m=+150.222812901
+Server: 2024/01/16 23:51:21 server.go:73: Server online 2024-01-16 23:51:21.6031655 +0300 MSK m=+160.224873301
+Server: 2024/01/16 23:51:31 server.go:73: Server online 2024-01-16 23:51:31.6171629 +0300 MSK m=+170.238870701
+Server: 2024/01/16 23:51:41 server.go:73: Server online 2024-01-16 23:51:41.6313575 +0300 MSK m=+180.253065301
+Server: 2024/01/16 23:51:51 server.go:73: Server online 2024-01-16 23:51:51.6425439 +0300 MSK m=+190.264251701
+Server: 2024/01/16 23:52:01 server.go:73: Server online 2024-01-16 23:52:01.655873 +0300 MSK m=+200.277580801
+Server: 2024/01/16 23:52:11 server.go:73: Server online 2024-01-16 23:52:11.6593943 +0300 MSK m=+210.281102101
+Server: 2024/01/16 23:52:21 server.go:73: Server online 2024-01-16 23:52:21.6700715 +0300 MSK m=+220.291779301
+Server: 2024/01/16 23:52:31 server.go:73: Server online 2024-01-16 23:52:31.6745063 +0300 MSK m=+230.296214101
+Server: 2024/01/16 23:52:41 server.go:73: Server online 2024-01-16 23:52:41.6780388 +0300 MSK m=+240.299746601
+Server: 2024/01/16 23:52:51 server.go:73: Server online 2024-01-16 23:52:51.6869234 +0300 MSK m=+250.308631201
+Server: 2024/01/16 23:53:01 server.go:73: Server online 2024-01-16 23:53:01.6903793 +0300 MSK m=+260.312087101
+Server: 2024/01/16 23:53:11 server.go:73: Server online 2024-01-16 23:53:11.7032868 +0300 MSK m=+270.324994601
+Server: 2024/01/16 23:53:12 server.go:85: Received signal: interrupt
+Server: 2024/01/16 23:53:12 server.go:140: Server is shutting down...
+Server: 2024/01/16 23:53:23 server.go:98: Connected to the database...
+Server: 2024/01/16 23:53:23 server.go:110: Connected to the database successfully
+Server: 2024/01/16 23:53:23 server.go:115: Connecting to NATS...
+Server: 2024/01/16 23:53:23 server.go:122: Connected to NATS successfully
+Server: 2024/01/16 23:53:23 server.go:69: Server is online
+Server: 2024/01/16 23:53:23 server.go:93: HTTP server is starting with IP: 127.0.0.0:8080
+Server: 2024/01/16 23:53:23 server.go:94: listen tcp 127.0.0.0:8080: bind: The requested address is not valid in its context.
+Server: 2024/01/16 23:56:03 server.go:98: Connected to the database...
+Server: 2024/01/16 23:56:03 server.go:110: Connected to the database successfully
+Server: 2024/01/16 23:56:03 server.go:115: Connecting to NATS...
+Server: 2024/01/16 23:56:03 server.go:122: Connected to NATS successfully
+Server: 2024/01/16 23:56:03 server.go:69: Server is online
+Server: 2024/01/16 23:56:03 server.go:93: HTTP server is starting with IP: 127.0.0.1:8080
+Server: 2024/01/16 23:56:13 server.go:74: Server online 2024-01-16 23:56:13.9603478 +0300 MSK m=+10.105523101
+Server: 2024/01/16 23:56:16 server.go:86: Received signal: interrupt
+Server: 2024/01/16 23:56:16 server.go:141: Server is shutting down...
+Server: 2024/01/16 23:56:16 server.go:142: ===============================================================================================================================================================================
+Server: 2024/01/16 23:58:49 server.go:98: Connected to the database...
+Server: 2024/01/16 23:58:49 server.go:110: Connected to the database successfully
+Server: 2024/01/16 23:58:49 server.go:115: Connecting to NATS...
+Server: 2024/01/16 23:58:49 server.go:122: Connected to NATS successfully
+Server: 2024/01/16 23:58:49 server.go:69: Server is online
+Server: 2024/01/16 23:58:49 server.go:93: HTTP server is starting with IP: 127.0.0.1:8080
+Server: 2024/01/16 23:58:59 server.go:86: Received signal: interrupt
+Server: 2024/01/16 23:58:59 server.go:141: Server is shutting down...
+Server: 2024/01/16 23:58:59 server.go:142: ==============================================================END-LOGS==============================================================
+Server: 2024/01/16 23:58:59 server.go:76: Server is offline 2024-01-16 23:58:59.7230182 +0300 MSK m=+10.089541501
+Server: 2024/01/17 00:51:53 server.go:112: Connected to the database...
+Server: 2024/01/17 00:51:53 server.go:124: Connected to the database successfully
+Server: 2024/01/17 00:51:53 server.go:129: Connecting to NATS...
+Server: 2024/01/17 00:51:53 server.go:136: Connected to NATS successfully
+Server: 2024/01/17 00:51:53 server.go:66: Server is online
+Server: 2024/01/17 00:51:53 server.go:95: HTTP server is starting with IP: 127.0.0.1:8080
+Server: 2024/01/17 00:52:03 server.go:72: Server online 2024-01-17 00:52:03.208838 +0300 MSK m=+10.094888001
+Server: 2024/01/17 00:52:13 server.go:72: Server online 2024-01-17 00:52:13.2151569 +0300 MSK m=+20.101206901
+Server: 2024/01/17 00:52:23 server.go:72: Server online 2024-01-17 00:52:23.2259558 +0300 MSK m=+30.112005801
+Server: 2024/01/17 00:52:33 server.go:72: Server online 2024-01-17 00:52:33.2302898 +0300 MSK m=+40.116339801
+Server: 2024/01/17 00:52:43 server.go:72: Server online 2024-01-17 00:52:43.2410647 +0300 MSK m=+50.127114701
+Server: 2024/01/17 00:52:53 server.go:72: Server online 2024-01-17 00:52:53.2483548 +0300 MSK m=+60.134404801
+Server: 2024/01/17 00:53:03 server.go:72: Server online 2024-01-17 00:53:03.2602862 +0300 MSK m=+70.146336201
+Server: 2024/01/17 00:53:13 server.go:72: Server online 2024-01-17 00:53:13.2749426 +0300 MSK m=+80.160992601
+Server: 2024/01/17 00:53:23 server.go:72: Server online 2024-01-17 00:53:23.2899713 +0300 MSK m=+90.176021301
+Server: 2024/01/17 00:53:33 server.go:72: Server online 2024-01-17 00:53:33.2909915 +0300 MSK m=+100.177041501
+Server: 2024/01/17 00:53:43 server.go:72: Server online 2024-01-17 00:53:43.2978955 +0300 MSK m=+110.183945501
+Server: 2024/01/17 00:53:53 server.go:72: Server online 2024-01-17 00:53:53.3040866 +0300 MSK m=+120.190136601
+Server: 2024/01/17 00:54:03 server.go:72: Server online 2024-01-17 00:54:03.3137604 +0300 MSK m=+130.199810401
+Server: 2024/01/17 00:54:13 server.go:72: Server online 2024-01-17 00:54:13.3158251 +0300 MSK m=+140.201875101
+Server: 2024/01/17 00:54:23 server.go:72: Server online 2024-01-17 00:54:23.3188766 +0300 MSK m=+150.204926601
+Server: 2024/01/17 00:54:33 server.go:72: Server online 2024-01-17 00:54:33.3233339 +0300 MSK m=+160.209383901
+Server: 2024/01/17 00:54:43 server.go:72: Server online 2024-01-17 00:54:43.3323484 +0300 MSK m=+170.218398401
+Server: 2024/01/17 00:54:53 server.go:72: Server online 2024-01-17 00:54:53.3351964 +0300 MSK m=+180.221246401
+Server: 2024/01/17 00:55:03 server.go:72: Server online 2024-01-17 00:55:03.3363943 +0300 MSK m=+190.222444301
+Server: 2024/01/17 00:55:06 server.go:87: Received signal: interrupt
+Server: 2024/01/17 00:55:06 server.go:155: Server is shutting down...
+Server: 2024/01/17 00:55:06 server.go:105: Shutting down the server...
+Server: 2024/01/17 00:55:09 server.go:112: Connected to the database...
+Server: 2024/01/17 00:55:09 server.go:124: Connected to the database successfully
+Server: 2024/01/17 00:55:09 server.go:129: Connecting to NATS...
+Server: 2024/01/17 00:55:09 server.go:136: Connected to NATS successfully
+Server: 2024/01/17 00:55:09 server.go:66: Server is online
+Server: 2024/01/17 00:55:09 server.go:95: HTTP server is starting with IP: 127.0.0.1:8080
+Server: 2024/01/17 00:55:19 server.go:72: Server online 2024-01-17 00:55:19.1194175 +0300 MSK m=+10.096941701
+Server: 2024/01/17 00:55:29 server.go:72: Server online 2024-01-17 00:55:29.1198121 +0300 MSK m=+20.097336301
+Server: 2024/01/17 00:55:39 server.go:72: Server online 2024-01-17 00:55:39.1255425 +0300 MSK m=+30.103066701
+Server: 2024/01/17 00:55:49 server.go:72: Server online 2024-01-17 00:55:49.1317407 +0300 MSK m=+40.109264901
+Server: 2024/01/17 00:55:59 server.go:72: Server online 2024-01-17 00:55:59.1394322 +0300 MSK m=+50.116956401
+Server: 2024/01/17 00:56:09 server.go:72: Server online 2024-01-17 00:56:09.1482964 +0300 MSK m=+60.125820601
+Server: 2024/01/17 00:56:19 server.go:72: Server online 2024-01-17 00:56:19.1568928 +0300 MSK m=+70.134417001
+Server: 2024/01/17 00:56:29 server.go:72: Server online 2024-01-17 00:56:29.1723246 +0300 MSK m=+80.149848801
+Server: 2024/01/17 00:56:39 server.go:72: Server online 2024-01-17 00:56:39.1786862 +0300 MSK m=+90.156210401
+Server: 2024/01/17 00:56:49 server.go:72: Server online 2024-01-17 00:56:49.1804544 +0300 MSK m=+100.157978601
+Server: 2024/01/17 00:56:59 server.go:72: Server online 2024-01-17 00:56:59.1923131 +0300 MSK m=+110.169837301
+Server: 2024/01/17 00:57:09 server.go:72: Server online 2024-01-17 00:57:09.1969759 +0300 MSK m=+120.174500101
+Server: 2024/01/17 00:57:19 server.go:72: Server online 2024-01-17 00:57:19.2062898 +0300 MSK m=+130.183814001
+Server: 2024/01/17 00:57:29 server.go:72: Server online 2024-01-17 00:57:29.2090078 +0300 MSK m=+140.186532001
+Server: 2024/01/17 00:57:39 server.go:72: Server online 2024-01-17 00:57:39.2177148 +0300 MSK m=+150.195239001
+Server: 2024/01/17 00:57:49 server.go:72: Server online 2024-01-17 00:57:49.2267892 +0300 MSK m=+160.204313401
+Server: 2024/01/17 00:57:59 server.go:72: Server online 2024-01-17 00:57:59.2287421 +0300 MSK m=+170.206266301
+Server: 2024/01/17 00:58:09 server.go:72: Server online 2024-01-17 00:58:09.2414016 +0300 MSK m=+180.218925801
+Server: 2024/01/17 00:58:19 server.go:72: Server online 2024-01-17 00:58:19.2471745 +0300 MSK m=+190.224698701
+Server: 2024/01/17 00:58:29 server.go:72: Server online 2024-01-17 00:58:29.2477238 +0300 MSK m=+200.225248001
+Server: 2024/01/17 00:58:39 server.go:72: Server online 2024-01-17 00:58:39.2574348 +0300 MSK m=+210.234959001
+Server: 2024/01/17 00:58:49 server.go:72: Server online 2024-01-17 00:58:49.2662056 +0300 MSK m=+220.243729801
+Server: 2024/01/17 00:58:59 server.go:72: Server online 2024-01-17 00:58:59.2790211 +0300 MSK m=+230.256545301
+Server: 2024/01/17 00:59:09 server.go:72: Server online 2024-01-17 00:59:09.2846861 +0300 MSK m=+240.262210301
+Server: 2024/01/17 00:59:19 server.go:72: Server online 2024-01-17 00:59:19.2877983 +0300 MSK m=+250.265322501
+Server: 2024/01/17 00:59:29 server.go:72: Server online 2024-01-17 00:59:29.2926115 +0300 MSK m=+260.270135701
+Server: 2024/01/17 00:59:39 server.go:72: Server online 2024-01-17 00:59:39.2954394 +0300 MSK m=+270.272963601
+Server: 2024/01/17 00:59:49 server.go:72: Server online 2024-01-17 00:59:49.3048136 +0300 MSK m=+280.282337801
+Server: 2024/01/17 00:59:59 server.go:72: Server online 2024-01-17 00:59:59.3114294 +0300 MSK m=+290.288953601
+Server: 2024/01/17 01:00:09 server.go:72: Server online 2024-01-17 01:00:09.3114696 +0300 MSK m=+300.288993801
+Server: 2024/01/17 01:00:19 server.go:72: Server online 2024-01-17 01:00:19.3178455 +0300 MSK m=+310.295369701
+Server: 2024/01/17 01:00:29 server.go:72: Server online 2024-01-17 01:00:29.3194371 +0300 MSK m=+320.296961301
+Server: 2024/01/17 01:00:39 server.go:72: Server online 2024-01-17 01:00:39.335918 +0300 MSK m=+330.313442201
+Server: 2024/01/17 01:00:49 server.go:72: Server online 2024-01-17 01:00:49.3511478 +0300 MSK m=+340.328672001
+Server: 2024/01/17 01:00:59 server.go:72: Server online 2024-01-17 01:00:59.3660346 +0300 MSK m=+350.343558801
+Server: 2024/01/17 01:01:09 server.go:72: Server online 2024-01-17 01:01:09.3750059 +0300 MSK m=+360.352530101
+Server: 2024/01/17 01:01:19 server.go:72: Server online 2024-01-17 01:01:19.3769707 +0300 MSK m=+370.354494901
+Server: 2024/01/17 01:01:29 server.go:72: Server online 2024-01-17 01:01:29.380122 +0300 MSK m=+380.357646201
+Server: 2024/01/17 01:01:39 server.go:72: Server online 2024-01-17 01:01:39.3918209 +0300 MSK m=+390.369345101
+Server: 2024/01/17 01:01:49 server.go:72: Server online 2024-01-17 01:01:49.4047629 +0300 MSK m=+400.382287101
+Server: 2024/01/17 01:01:59 server.go:72: Server online 2024-01-17 01:01:59.4109664 +0300 MSK m=+410.388490601
+Server: 2024/01/17 01:02:09 server.go:72: Server online 2024-01-17 01:02:09.4186005 +0300 MSK m=+420.396124701
+Server: 2024/01/17 01:02:19 server.go:72: Server online 2024-01-17 01:02:19.4237459 +0300 MSK m=+430.401270101
+Server: 2024/01/17 01:02:29 server.go:72: Server online 2024-01-17 01:02:29.4369819 +0300 MSK m=+440.414506101
+Server: 2024/01/17 01:02:39 server.go:72: Server online 2024-01-17 01:02:39.44263 +0300 MSK m=+450.420154201
+Server: 2024/01/17 01:02:49 server.go:72: Server online 2024-01-17 01:02:49.4496563 +0300 MSK m=+460.427180501
+Server: 2024/01/17 01:02:59 server.go:72: Server online 2024-01-17 01:02:59.4525718 +0300 MSK m=+470.430096001
+Server: 2024/01/17 01:03:09 server.go:72: Server online 2024-01-17 01:03:09.4666768 +0300 MSK m=+480.444201001
+Server: 2024/01/17 01:03:19 server.go:72: Server online 2024-01-17 01:03:19.4692313 +0300 MSK m=+490.446755501
+Server: 2024/01/17 01:03:29 server.go:72: Server online 2024-01-17 01:03:29.4794337 +0300 MSK m=+500.456957901
+Server: 2024/01/17 01:03:39 server.go:72: Server online 2024-01-17 01:03:39.4943557 +0300 MSK m=+510.471879901
+Server: 2024/01/17 01:03:49 server.go:72: Server online 2024-01-17 01:03:49.5087288 +0300 MSK m=+520.486253001
+Server: 2024/01/17 01:03:59 server.go:72: Server online 2024-01-17 01:03:59.5131638 +0300 MSK m=+530.490688001
+Server: 2024/01/17 01:04:09 server.go:72: Server online 2024-01-17 01:04:09.5261344 +0300 MSK m=+540.503658601
+Server: 2024/01/17 01:04:19 server.go:72: Server online 2024-01-17 01:04:19.5322822 +0300 MSK m=+550.509806401
+Server: 2024/01/17 01:04:29 server.go:72: Server online 2024-01-17 01:04:29.5466746 +0300 MSK m=+560.524198801
+Server: 2024/01/17 01:04:38 server.go:87: Received signal: interrupt
+Server: 2024/01/17 01:04:38 server.go:155: Server is shutting down...
+Server: 2024/01/17 01:04:38 server.go:105: Shutting down the server...
+Server: 2024/01/17 01:04:41 server.go:113: Connected to the database...
+Server: 2024/01/17 01:04:41 server.go:125: Connected to the database successfully
+Server: 2024/01/17 01:04:41 server.go:130: Connecting to NATS...
+Server: 2024/01/17 01:04:41 server.go:137: Connected to NATS successfully
+Server: 2024/01/17 01:05:13 server.go:156: Server is shutting down...
+Server: 2024/01/17 01:06:30 server.go:112: Connected to the database...
+Server: 2024/01/17 01:06:31 server.go:124: Connected to the database successfully
+Server: 2024/01/17 01:06:31 server.go:129: Connecting to NATS...
+Server: 2024/01/17 01:06:31 server.go:136: Connected to NATS successfully
+Server: 2024/01/17 01:07:31 server.go:155: Server is shutting down...
+Server: 2024/01/17 01:14:04 server.go:112: Connected to the database...
+Server: 2024/01/17 01:14:04 server.go:124: Connected to the database successfully
+Server: 2024/01/17 01:14:04 server.go:129: Connecting to NATS...
+Server: 2024/01/17 01:14:04 server.go:136: Connected to NATS successfully
+Server: 2024/01/17 01:14:04 server.go:66: Server is online
+Server: 2024/01/17 01:14:04 server.go:95: HTTP server is starting with IP: 127.0.0.1:8080
+Nats: 2024/01/16 22:14:06.618540 Connection...
+Nats: 2024/01/16 22:14:06.627264 Listening for messages...
+Server: 2024/01/17 01:14:14 server.go:72: Server online 2024-01-17 01:14:14.557569 +0300 MSK m=+10.136838801
+Server: 2024/01/17 01:14:24 server.go:72: Server online 2024-01-17 01:14:24.561645 +0300 MSK m=+20.140914801
+Server: 2024/01/17 01:14:34 server.go:72: Server online 2024-01-17 01:14:34.5680788 +0300 MSK m=+30.147348601
+Server: 2024/01/17 01:14:44 server.go:72: Server online 2024-01-17 01:14:44.580218 +0300 MSK m=+40.159487801
+Nats: 2024/01/16 22:14:47.574567 Received message: A query to the database with the number has been executed ID: 4
+Server: 2024/01/17 01:14:54 server.go:72: Server online 2024-01-17 01:14:54.5932623 +0300 MSK m=+50.172532101
+Server: 2024/01/17 01:15:04 server.go:72: Server online 2024-01-17 01:15:04.5962719 +0300 MSK m=+60.175541701
+Server: 2024/01/17 01:15:14 server.go:72: Server online 2024-01-17 01:15:14.5968333 +0300 MSK m=+70.176103101
+Server: 2024/01/17 01:15:24 server.go:72: Server online 2024-01-17 01:15:24.6053261 +0300 MSK m=+80.184595901
+Server: 2024/01/17 01:15:34 server.go:72: Server online 2024-01-17 01:15:34.6160582 +0300 MSK m=+90.195328001
+Server: 2024/01/17 01:15:44 server.go:72: Server online 2024-01-17 01:15:44.6280785 +0300 MSK m=+100.207348301
+Server: 2024/01/17 01:15:54 server.go:72: Server online 2024-01-17 01:15:54.6294033 +0300 MSK m=+110.208673101
+Server: 2024/01/17 01:16:04 server.go:72: Server online 2024-01-17 01:16:04.6314541 +0300 MSK m=+120.210723901
+Server: 2024/01/17 01:16:14 server.go:72: Server online 2024-01-17 01:16:14.6411734 +0300 MSK m=+130.220443201
+Server: 2024/01/17 01:16:24 server.go:72: Server online 2024-01-17 01:16:24.6562873 +0300 MSK m=+140.235557101
+Server: 2024/01/17 01:16:34 server.go:72: Server online 2024-01-17 01:16:34.6650348 +0300 MSK m=+150.244304601
+Server: 2024/01/17 01:16:44 server.go:72: Server online 2024-01-17 01:16:44.6696987 +0300 MSK m=+160.248968501
+Server: 2024/01/17 01:16:54 server.go:72: Server online 2024-01-17 01:16:54.6803893 +0300 MSK m=+170.259659101
+Server: 2024/01/17 01:17:04 server.go:72: Server online 2024-01-17 01:17:04.6839732 +0300 MSK m=+180.263243001
+Server: 2024/01/17 01:17:14 server.go:72: Server online 2024-01-17 01:17:14.6899281 +0300 MSK m=+190.269197901
+Server: 2024/01/17 01:17:24 server.go:72: Server online 2024-01-17 01:17:24.6933784 +0300 MSK m=+200.272648201
+Server: 2024/01/17 01:17:34 server.go:72: Server online 2024-01-17 01:17:34.7059776 +0300 MSK m=+210.285247401
+Server: 2024/01/17 01:17:44 server.go:72: Server online 2024-01-17 01:17:44.7160344 +0300 MSK m=+220.295304201
+Server: 2024/01/17 01:17:54 server.go:72: Server online 2024-01-17 01:17:54.7302183 +0300 MSK m=+230.309488101
+Server: 2024/01/17 01:18:04 server.go:72: Server online 2024-01-17 01:18:04.7440468 +0300 MSK m=+240.323316601
+Server: 2024/01/17 01:18:14 server.go:72: Server online 2024-01-17 01:18:14.7511585 +0300 MSK m=+250.330428301
+Server: 2024/01/17 01:18:24 server.go:72: Server online 2024-01-17 01:18:24.7574962 +0300 MSK m=+260.336766001
+Server: 2024/01/17 01:18:34 server.go:72: Server online 2024-01-17 01:18:34.7589633 +0300 MSK m=+270.338233101
+Server: 2024/01/17 01:18:39 server.go:87: Received signal: interrupt
+Server: 2024/01/17 01:18:39 server.go:155: Server is shutting down...
+Server: 2024/01/17 01:18:39 server.go:105: Shutting down the server...
+Server: 2024/01/17 01:34:20 server.go:128: Connected to the database...
+Server: 2024/01/17 01:34:20 server.go:141: Connected to the database successfully
+Server: 2024/01/17 01:34:20 server.go:147: Connecting to NATS...
+Server: 2024/01/17 01:34:20 server.go:156: Connected to NATS successfully
+Server: 2024/01/17 01:34:20 server.go:110: HTTP server is starting with IP: 127.0.0.1:8080
+Server: 2024/01/17 01:34:30 server.go:86: Server online 2024-01-17 01:34:30.740342 +0300 MSK m=+10.098201301
+Server: 2024/01/17 01:34:40 server.go:86: Server online 2024-01-17 01:34:40.7457913 +0300 MSK m=+20.103650601
+Server: 2024/01/17 01:34:50 server.go:86: Server online 2024-01-17 01:34:50.7511681 +0300 MSK m=+30.109027401
+Server: 2024/01/17 01:35:00 server.go:86: Server online 2024-01-17 01:35:00.7555161 +0300 MSK m=+40.113375401
+Server: 2024/01/17 01:35:09 server.go:102: Received signal: interrupt
+Server: 2024/01/17 01:35:09 server.go:177: Server is shutting down...
+Server: 2024/01/17 01:35:09 server.go:121: Shutting down the server...
+Server: 2024/01/17 01:35:11 server.go:128: Connected to the database...
+Server: 2024/01/17 01:35:11 server.go:141: Connected to the database successfully
+Server: 2024/01/17 01:35:11 server.go:147: Connecting to NATS...
+Server: 2024/01/17 01:35:11 server.go:156: Connected to NATS successfully
+Server: 2024/01/17 01:35:11 server.go:110: HTTP server is starting with IP: 127.0.0.1:8080
+Server: 2024/01/17 01:35:21 server.go:86: Server online 2024-01-17 01:35:21.4097933 +0300 MSK m=+10.101585501
+Server: 2024/01/17 01:35:29 server.go:102: Received signal: interrupt
+Server: 2024/01/17 01:35:29 server.go:177: Server is shutting down...
+Server: 2024/01/17 01:35:29 server.go:121: Shutting down the server...
+Server: 2024/01/17 01:35:31 server.go:128: Connected to the database...
+Server: 2024/01/17 01:35:31 server.go:141: Connected to the database successfully
+Server: 2024/01/17 01:35:31 server.go:147: Connecting to NATS...
+Server: 2024/01/17 01:35:31 server.go:156: Connected to NATS successfully
+Server: 2024/01/17 01:35:31 server.go:110: HTTP server is starting with IP: 127.0.0.1:8080
+Server: 2024/01/17 01:35:41 server.go:86: Server online 2024-01-17 01:35:41.9941291 +0300 MSK m=+10.089566801
+Server: 2024/01/17 01:35:52 server.go:86: Server online 2024-01-17 01:35:52.0048801 +0300 MSK m=+20.100317801
+Server: 2024/01/17 01:36:02 server.go:86: Server online 2024-01-17 01:36:02.0171159 +0300 MSK m=+30.112553601
+Server: 2024/01/17 01:36:12 server.go:86: Server online 2024-01-17 01:36:12.0268884 +0300 MSK m=+40.122326101
+Server: 2024/01/17 01:36:22 server.go:86: Server online 2024-01-17 01:36:22.0309267 +0300 MSK m=+50.126364401
+Server: 2024/01/17 01:36:32 server.go:86: Server online 2024-01-17 01:36:32.0321565 +0300 MSK m=+60.127594201
+Server: 2024/01/17 01:36:42 server.go:86: Server online 2024-01-17 01:36:42.0462384 +0300 MSK m=+70.141676101
+Server: 2024/01/17 01:36:52 server.go:86: Server online 2024-01-17 01:36:52.0475772 +0300 MSK m=+80.143014901
+Server: 2024/01/17 01:37:02 server.go:86: Server online 2024-01-17 01:37:02.0620971 +0300 MSK m=+90.157534801
+Server: 2024/01/17 01:37:12 server.go:86: Server online 2024-01-17 01:37:12.0762311 +0300 MSK m=+100.171668801
+Server: 2024/01/17 01:37:22 server.go:86: Server online 2024-01-17 01:37:22.0770319 +0300 MSK m=+110.172469601
+Server: 2024/01/17 01:37:32 server.go:86: Server online 2024-01-17 01:37:32.0850369 +0300 MSK m=+120.180474601
+Server: 2024/01/17 01:37:42 server.go:86: Server online 2024-01-17 01:37:42.0929574 +0300 MSK m=+130.188395101
+Server: 2024/01/17 01:37:52 server.go:86: Server online 2024-01-17 01:37:52.1052787 +0300 MSK m=+140.200716401
+Server: 2024/01/17 01:38:02 server.go:86: Server online 2024-01-17 01:38:02.1143961 +0300 MSK m=+150.209833801
+Server: 2024/01/17 01:38:12 server.go:86: Server online 2024-01-17 01:38:12.1277746 +0300 MSK m=+160.223212301
+Server: 2024/01/17 01:38:22 server.go:86: Server online 2024-01-17 01:38:22.1323426 +0300 MSK m=+170.227780301
+Server: 2024/01/17 01:38:32 server.go:86: Server online 2024-01-17 01:38:32.1336265 +0300 MSK m=+180.229064201
+Server: 2024/01/17 01:38:42 server.go:86: Server online 2024-01-17 01:38:42.1349703 +0300 MSK m=+190.230408001
+Server: 2024/01/17 01:38:52 server.go:86: Server online 2024-01-17 01:38:52.14045 +0300 MSK m=+200.235887701
+Server: 2024/01/17 01:39:02 server.go:86: Server online 2024-01-17 01:39:02.1504359 +0300 MSK m=+210.245873601
+Server: 2024/01/17 01:39:05 server.go:102: Received signal: interrupt
+Server: 2024/01/17 01:39:05 server.go:177: Server is shutting down...
+Server: 2024/01/17 01:39:05 server.go:121: Shutting down the server...
+Server: 2024/01/17 01:39:07 server.go:128: Connected to the database...
+Server: 2024/01/17 01:39:07 server.go:141: Connected to the database successfully
+Server: 2024/01/17 01:39:07 server.go:147: Connecting to NATS...
+Server: 2024/01/17 01:39:07 server.go:156: Connected to NATS successfully
+Server: 2024/01/17 01:39:07 server.go:110: HTTP server is starting with IP: 127.0.0.1:8080
+Nats: 2024/01/17 01:39:09.951226 Connection...
+Nats: 2024/01/17 01:39:09.992266 Listening for messages...
+Server: 2024/01/17 01:39:17 server.go:86: Server online 2024-01-17 01:39:17.9869057 +0300 MSK m=+10.096547101
+Server: 2024/01/17 01:39:28 server.go:86: Server online 2024-01-17 01:39:28.0028627 +0300 MSK m=+20.112504101
+Server: 2024/01/17 01:39:38 server.go:86: Server online 2024-01-17 01:39:38.0109246 +0300 MSK m=+30.120566001
+Nats: 2024/01/17 01:39:47.124296 Received message: A query to the database with the number has been executed ID: 4
+Server: 2024/01/17 01:39:48 server.go:86: Server online 2024-01-17 01:39:48.0227827 +0300 MSK m=+40.132424101
+Server: 2024/01/17 01:39:58 server.go:86: Server online 2024-01-17 01:39:58.0341081 +0300 MSK m=+50.143749501
+Server: 2024/01/17 01:40:08 server.go:86: Server online 2024-01-17 01:40:08.0388128 +0300 MSK m=+60.148454201
+Server: 2024/01/17 01:40:18 server.go:86: Server online 2024-01-17 01:40:18.0477988 +0300 MSK m=+70.157440201
+Server: 2024/01/17 01:40:19 server.go:102: Received signal: interrupt
+Server: 2024/01/17 01:40:19 server.go:177: Server is shutting down...
+Server: 2024/01/17 01:40:19 server.go:121: Shutting down the server...
+Server: 2024/01/17 01:54:03 server.go:129: Connected to the database...
+Server: 2024/01/17 01:54:03 server.go:142: Connected to the database successfully
+Server: 2024/01/17 01:54:03 server.go:148: Connecting to NATS...
+Server: 2024/01/17 01:54:03 server.go:157: Connected to NATS successfully
+Server: 2024/01/17 01:54:03 server.go:111: HTTP server is starting with IP: 127.0.0.1:8080
+Nats: 2024/01/17 01:54:10.974803 Connection...
+Nats: 2024/01/17 01:54:11.017287 Listening for messages...
+Nats: 2024/01/17 01:54:19.998134 Received message: A query to the database with the number has been executed ID: 5
+Nats: 2024/01/17 01:54:25.084042 Received message: New data added: {"entry": "WBIL", "items": [{"rid": "ab4219087a764ae0btest", "name": "Mascaras", "sale": 30, "size": "0", "brand": "Vivienne Sabo", "nm_id": 2389212, "price": 453, "status": 202, "chrt_id": 9934930, "total_price": 317, "track_number": "WBILMTESTTRACK"}], "sm_id": 99, "locale": "en", "payment": {"bank": "alpha", "amount": 1817, "currency": "USD", "provider": "wbpay", "custom_fee": 0, "payment_dt": 1637907727, "request_id": "", "goods_total": 317, "transaction": "b563feb7b2b84b6test", "delivery_cost": 1500}, "delivery": {"zip": "2639809", "city": "Kiryat Mozkin", "name": "Test Testov", "email": "test@gmail.com", "phone": "+9720000000", "region": "Kraiot", "address": "Ploshad Mira 15"}, "shardkey": "9", "oof_shard": "1", "order_uid": "b563feb7b2b84b6test", "customer_id": "test", "date_created": "2021-11-26T06:22:19Z", "track_number": "WBILMTESTTRACK", "delivery_service": "meest", "internal_signature": ""}
+Server: 2024/01/17 01:55:03 server.go:87: Server online 2024-01-17 01:55:03.3923364 +0300 MSK m=+60.093161801
+Server: 2024/01/17 01:56:03 server.go:87: Server online 2024-01-17 01:56:03.4025467 +0300 MSK m=+120.103372101
+Server: 2024/01/17 01:56:23 server.go:103: Received signal: interrupt
+Server: 2024/01/17 01:56:23 server.go:178: Server is shutting down...
+Server: 2024/01/17 01:56:23 server.go:122: Shutting down the server...
+Server: 2024/01/17 01:56:28 server.go:129: Connected to the database...
+Server: 2024/01/17 01:56:28 server.go:142: Connected to the database successfully
+Server: 2024/01/17 01:56:28 server.go:148: Connecting to NATS...
+Server: 2024/01/17 01:56:28 server.go:157: Connected to NATS successfully
+Server: 2024/01/17 01:56:28 server.go:111: HTTP server is starting with IP: 127.0.0.1:8080
+Nats: 2024/01/17 01:56:28.975772 Connection...
+Nats: 2024/01/17 01:56:29.016463 Listening for messages...
+Nats: 2024/01/17 01:56:36.416829 Received message: A query to the database with the number has been executed ID: 4
+Nats: 2024/01/17 01:56:38.653152 Received message: A query to the database with the number has been executed ID: 5
+Nats: 2024/01/17 01:56:56.206852 Received message: New data added: {"entry": "WBIL", "items": [{"rid": "ab4219087a764ae0btest", "name": "Mascaras", "sale": 30, "size": "0", "brand": "Vivienne Sabo", "nm_id": 2389212, "price": 453, "status": 202, "chrt_id": 9934930, "total_price": 317, "track_number": "WBILMTESTTRACK"}], "sm_id": 99, "locale": "en", "payment": {"bank": "alpha", "amount": 1817, "currency": "USD", "provider": "wbpay", "custom_fee": 0, "payment_dt": 1637907727, "request_id": "", "goods_total": 317, "transaction": "b563feb7b2b84b6test", "delivery_cost": 1500}, "delivery": {"zip": "2639809", "city": "Kiryat Mozkin", "name": "Test Testov", "email": "test@gmail.com", "phone": "+9720000000", "region": "Kraiot", "address": "Ploshad Mira 15"}, "shardkey": "9", "oof_shard": "1", "order_uid": "b563feb7b2b84b6test", "customer_id": "test", "date_created": "2021-11-26T06:22:19Z", "track_number": "WBILMTESTTRACK", "delivery_service": "meest", "internal_signature": ""}
+Server: 2024/01/17 01:57:28 server.go:87: Server online 2024-01-17 01:57:28.4085288 +0300 MSK m=+60.102796301
+Server: 2024/01/17 01:58:28 server.go:87: Server online 2024-01-17 01:58:28.4119658 +0300 MSK m=+120.106233301
+Server: 2024/01/17 01:58:42 server.go:103: Received signal: interrupt
+Server: 2024/01/17 01:58:42 server.go:178: Server is shutting down...
+Server: 2024/01/17 01:58:42 server.go:122: Shutting down the server...
+Server: 2024/01/17 01:58:46 server.go:129: Connected to the database...
+Server: 2024/01/17 01:58:47 server.go:142: Connected to the database successfully
+Server: 2024/01/17 01:58:47 server.go:148: Connecting to NATS...
+Server: 2024/01/17 01:58:47 server.go:157: Connected to NATS successfully
+Server: 2024/01/17 01:58:47 server.go:111: HTTP server is starting with IP: 127.0.0.1:8080
+Nats: 2024/01/17 01:58:52.740808 Connection...
+Nats: 2024/01/17 01:58:52.782969 Listening for messages...
+Nats: 2024/01/17 01:58:56.359063 Received message: New data added: {"entry": "WBIL", "items": [{"rid": "ab4219087a764ae0btest", "name": "Mascaras", "sale": 30, "size": "0", "brand": "Vivienne Sabo", "nm_id": 2389212, "price": 453, "status": 202, "chrt_id": 9934930, "total_price": 317, "track_number": "WBILMTESTTRACK"}], "sm_id": 99, "locale": "en", "payment": {"bank": "alpha", "amount": 1817, "currency": "USD", "provider": "wbpay", "custom_fee": 0, "payment_dt": 1637907727, "request_id": "", "goods_total": 317, "transaction": "b563feb7b2b84b6test", "delivery_cost": 1500}, "delivery": {"zip": "2639809", "city": "Kiryat Mozkin", "name": "Test Testov", "email": "test@gmail.com", "phone": "+9720000000", "region": "Kraiot", "address": "Ploshad Mira 15"}, "shardkey": "9", "oof_shard": "1", "order_uid": "b563feb7b2b84b6test", "customer_id": "test", "date_created": "2021-11-26T06:22:19Z", "track_number": "WBILMTESTTRACK", "delivery_service": "meest", "internal_signature": ""}
+Server: 2024/01/17 01:59:47 server.go:87: Server online 2024-01-17 01:59:47.0697051 +0300 MSK m=+60.211359401
+Server: 2024/01/17 01:59:48 server.go:103: Received signal: interrupt
+Server: 2024/01/17 01:59:48 server.go:178: Server is shutting down...
+Server: 2024/01/17 01:59:48 server.go:122: Shutting down the server...
+Server: 2024/01/17 01:59:51 server.go:129: Connected to the database...
+Server: 2024/01/17 01:59:52 server.go:142: Connected to the database successfully
+Server: 2024/01/17 01:59:52 server.go:148: Connecting to NATS...
+Server: 2024/01/17 01:59:52 server.go:157: Connected to NATS successfully
+Server: 2024/01/17 01:59:52 server.go:111: HTTP server is starting with IP: 127.0.0.1:8080
+Nats: 2024/01/17 01:59:53.228968 Connection...
+Nats: 2024/01/17 01:59:53.276203 Listening for messages...
+Server: 2024/01/17 02:00:52 server.go:87: Server online 2024-01-17 02:00:52.2175884 +0300 MSK m=+60.327138101
+Server: 2024/01/17 02:01:52 server.go:87: Server online 2024-01-17 02:01:52.220954 +0300 MSK m=+120.330503701
+Server: 2024/01/17 02:02:52 server.go:87: Server online 2024-01-17 02:02:52.2340856 +0300 MSK m=+180.343635301
+Server: 2024/01/17 02:03:52 server.go:87: Server online 2024-01-17 02:03:52.2348752 +0300 MSK m=+240.344424901
+Server: 2024/01/17 02:04:52 server.go:87: Server online 2024-01-17 02:04:52.2373775 +0300 MSK m=+300.346927201
+Server: 2024/01/17 02:05:52 server.go:87: Server online 2024-01-17 02:05:52.2522813 +0300 MSK m=+360.361831001
+Server: 2024/01/17 02:06:04 server.go:103: Received signal: interrupt
+Server: 2024/01/17 02:06:04 server.go:178: Server is shutting down...
+Server: 2024/01/17 02:06:04 server.go:122: Shutting down the server...
+Server: 2024/01/17 02:06:08 server.go:141: Connected to the database...
+Server: 2024/01/17 02:06:08 server.go:154: Connected to the database successfully
+Server: 2024/01/17 02:06:08 server.go:160: Connecting to NATS...
+Server: 2024/01/17 02:06:08 server.go:169: Connected to NATS successfully
+Server: 2024/01/17 02:06:08 server.go:75: Error creating backup: failed to unmarshal existing backup data: unexpected end of JSON input
+Server: 2024/01/17 02:06:08 server.go:116: HTTP server is starting with IP: 127.0.0.1:8080
+Nats: 2024/01/17 02:06:25.793609 Connection...
+Nats: 2024/01/17 02:06:25.835750 Listening for messages...
+Server: 2024/01/17 02:06:26 server.go:108: Received signal: interrupt
+Server: 2024/01/17 02:06:26 server.go:190: Server is shutting down...
+Server: 2024/01/17 02:06:26 server.go:127: Shutting down the server...
+Server: 2024/01/17 02:06:26 server.go:190: Server is shutting down...
+Server: 2024/01/17 02:06:26 server.go:135: Error creating backup: failed to unmarshal existing backup data: unexpected end of JSON input
+Server: 2024/01/17 02:06:29 server.go:141: Connected to the database...
+Server: 2024/01/17 02:06:30 server.go:154: Connected to the database successfully
+Server: 2024/01/17 02:06:30 server.go:160: Connecting to NATS...
+Server: 2024/01/17 02:06:30 server.go:169: Connected to NATS successfully
+Server: 2024/01/17 02:06:30 server.go:75: Error creating backup: failed to unmarshal existing backup data: unexpected end of JSON input
+Server: 2024/01/17 02:06:30 server.go:116: HTTP server is starting with IP: 127.0.0.1:8080
+Nats: 2024/01/17 02:06:37.735876 Received message: New data added: {"entry": "WBIL", "items": [{"rid": "ab4219087a764ae0btest", "name": "Mascaras", "sale": 30, "size": "0", "brand": "Vivienne Sabo", "nm_id": 2389212, "price": 453, "status": 202, "chrt_id": 9934930, "total_price": 317, "track_number": "WBILMTESTTRACK"}], "sm_id": 99, "locale": "en", "payment": {"bank": "alpha", "amount": 1817, "currency": "USD", "provider": "wbpay", "custom_fee": 0, "payment_dt": 1637907727, "request_id": "", "goods_total": 317, "transaction": "b563feb7b2b84b6test", "delivery_cost": 1500}, "delivery": {"zip": "2639809", "city": "Kiryat Mozkin", "name": "Test Testov", "email": "test@gmail.com", "phone": "+9720000000", "region": "Kraiot", "address": "Ploshad Mira 15"}, "shardkey": "9", "oof_shard": "1", "order_uid": "b563feb7b2b84b6test", "customer_id": "test", "date_created": "2021-11-26T06:22:19Z", "track_number": "WBILMTESTTRACK", "delivery_service": "meest", "internal_signature": ""}
+Server: 2024/01/17 02:06:40 server.go:108: Received signal: interrupt
+Server: 2024/01/17 02:06:40 server.go:190: Server is shutting down...
+Server: 2024/01/17 02:06:40 server.go:127: Shutting down the server...
+Server: 2024/01/17 02:06:40 server.go:190: Server is shutting down...
+Server: 2024/01/17 02:06:40 server.go:135: Error creating backup: failed to unmarshal existing backup data: unexpected end of JSON input
+Server: 2024/01/17 02:07:22 server.go:141: Connected to the database...
+Server: 2024/01/17 02:07:22 server.go:154: Connected to the database successfully
+Server: 2024/01/17 02:07:22 server.go:160: Connecting to NATS...
+Server: 2024/01/17 02:07:22 server.go:169: Connected to NATS successfully
+Server: 2024/01/17 02:07:22 server.go:116: HTTP server is starting with IP: 127.0.0.1:8080
+Nats: 2024/01/17 02:07:34.470616 Received message: A query to the database with the number has been executed ID: 4
+Nats: 2024/01/17 02:07:35.702862 Received message: A query to the database with the number has been executed ID: 6
+Server: 2024/01/17 02:07:41 server.go:108: Received signal: interrupt
+Server: 2024/01/17 02:07:41 server.go:190: Server is shutting down...
+Server: 2024/01/17 02:07:41 server.go:127: Shutting down the server...
+Server: 2024/01/17 02:07:41 server.go:190: Server is shutting down...
+Server: 2024/01/17 02:10:14 server.go:139: Connected to the database...
+Server: 2024/01/17 02:10:14 server.go:152: Connected to the database successfully
+Server: 2024/01/17 02:10:14 server.go:158: Connecting to NATS...
+Server: 2024/01/17 02:10:14 server.go:167: Connected to NATS successfully
+Server: 2024/01/17 02:10:14 server.go:116: HTTP server is starting with IP: 127.0.0.1:8080
+Server: 2024/01/17 02:10:24 server.go:108: Received signal: interrupt
+Server: 2024/01/17 02:10:24 server.go:188: Server is shutting down...
+Server: 2024/01/17 02:10:24 server.go:127: Shutting down the server...
+Server: 2024/01/17 02:11:59 server.go:139: Connected to the database...
+Server: 2024/01/17 02:11:59 server.go:152: Connected to the database successfully
+Server: 2024/01/17 02:11:59 server.go:158: Connecting to NATS...
+Server: 2024/01/17 02:11:59 server.go:167: Connected to NATS successfully
+Server: 2024/01/17 02:11:59 server.go:116: HTTP server is starting with IP: 127.0.0.1:8080
+Server: 2024/01/17 02:12:59 server.go:92: Server online 2024-01-17 02:12:59.3272204 +0300 MSK m=+60.093619501
+Server: 2024/01/17 02:13:40 server.go:108: Received signal: interrupt
+Server: 2024/01/17 02:13:40 server.go:188: Server is shutting down...
+Server: 2024/01/17 02:13:40 server.go:127: Shutting down the server...
+Server: 2024/01/17 02:13:43 server.go:146: Connected to the database...
+Server: 2024/01/17 02:13:43 server.go:159: Connected to the database successfully
+Server: 2024/01/17 02:13:43 server.go:165: Connecting to NATS...
+Server: 2024/01/17 02:13:43 server.go:174: Connected to NATS successfully
+Nats: 2024/01/17 02:13:43.226279 Received message: A query to the database with the number has been executed ID: 4
+Nats: 2024/01/17 02:13:43.226279 Received message: A query to the database with the number has been executed ID: 5
+Nats: 2024/01/17 02:13:43.226798 Received message: A query to the database with the number has been executed ID: 6
+Nats: 2024/01/17 02:13:43.227317 Received message: A query to the database with the number has been executed ID: 7
+Nats: 2024/01/17 02:13:43.227317 Received message: A query to the database with the number has been executed ID: 8
+Nats: 2024/01/17 02:13:43.227837 Received message: A query to the database with the number has been executed ID: 9
+Server: 2024/01/17 02:13:43 server.go:119: HTTP server is starting with IP: 127.0.0.1:8080
+Server: 2024/01/17 02:14:10 server.go:111: Received signal: interrupt
+Server: 2024/01/17 02:14:10 server.go:195: Server is shutting down...
+Server: 2024/01/17 02:14:10 server.go:130: Shutting down the server...
+Server: 2024/01/17 02:14:10 server.go:136: Error restoring cache from the database: failed to get all IDs from the database: sql: database is closed
+Server: 2024/01/17 02:25:12 server.go:154: Connected to the database...
+Server: 2024/01/17 02:25:12 server.go:167: Connected to the database successfully
+Server: 2024/01/17 02:25:12 server.go:173: Connecting to NATS...
+Server: 2024/01/17 02:25:12 server.go:182: Connected to NATS successfully
+Nats: 2024/01/17 02:25:12.118735 Received message: A query to the database with the number has been executed ID: 4
+Nats: 2024/01/17 02:25:12.119732 Received message: A query to the database with the number has been executed ID: 5
+Nats: 2024/01/17 02:25:12.119732 Received message: A query to the database with the number has been executed ID: 6
+Nats: 2024/01/17 02:25:12.120537 Received message: A query to the database with the number has been executed ID: 7
+Server: 2024/01/17 02:25:12 server.go:79: Successful data recovery from database
+Nats: 2024/01/17 02:25:12.120537 Received message: A query to the database with the number has been executed ID: 8
+Nats: 2024/01/17 02:25:12.121046 Received message: A query to the database with the number has been executed ID: 9
+Server: 2024/01/17 02:25:12 server.go:86: Successful creation of a backup
+Server: 2024/01/17 02:25:12 server.go:125: HTTP server is starting with IP: 127.0.0.1:8080
+Server: 2024/01/17 02:25:22 server.go:117: Received signal: interrupt
+Server: 2024/01/17 02:25:22 server.go:203: Server is shutting down...
+Server: 2024/01/17 02:25:22 server.go:136: Shutting down the server...
+Server: 2024/01/17 02:25:22 server.go:142: Error restoring cache from the database: failed to get all IDs from the database: sql: database is closed
+Server: 2024/01/17 02:25:22 server.go:150: Successful creation of a backup
+Server: 2024/01/17 02:43:22 server.go:170: Connected to the database...
+Server: 2024/01/17 02:43:23 server.go:183: Connected to the database successfully
+Server: 2024/01/17 02:43:23 server.go:189: Connecting to NATS...
+Server: 2024/01/17 02:43:23 server.go:198: Connected to NATS successfully
+Server: 2024/01/17 02:43:23 server.go:82: Error occurred: <nil>
+Nats: 2024/01/17 02:43:23.067973 Received message: A query to the database with the number has been executed ID: 4
+Nats: 2024/01/17 02:43:23.069007 Received message: A query to the database with the number has been executed ID: 5
+Nats: 2024/01/17 02:43:23.069007 Received message: A query to the database with the number has been executed ID: 6
+Nats: 2024/01/17 02:43:23.069007 Received message: A query to the database with the number has been executed ID: 7
+Server: 2024/01/17 02:43:23 server.go:95: Successful data recovery from database
+Nats: 2024/01/17 02:43:23.069534 Received message: A query to the database with the number has been executed ID: 8
+Nats: 2024/01/17 02:43:23.070052 Received message: A query to the database with the number has been executed ID: 9
+Server: 2024/01/17 02:43:23 server.go:102: Successful creation of a backup
+Server: 2024/01/17 02:43:23 server.go:141: HTTP server is starting with IP: 127.0.0.1:8080
+Server: 2024/01/17 02:44:23 server.go:117: Server online 2024-01-17 02:44:23.0850278 +0300 MSK m=+60.116167101
+Nats: 2024/01/17 02:44:39.323287 Received message: A query to the database with the number has been executed ID: 9
+Nats: 2024/01/17 02:44:45.643565 Received message: New data added: {"entry": "WBIL", "items": [{"rid": "ab4219087a764ae0btest", "name": "Mascaras", "sale": 30, "size": "0", "brand": "Vivienne Sabo", "nm_id": 2389212, "price": 453, "status": 202, "chrt_id": 9934930, "total_price": 317, "track_number": "WBILMTESTTRACK"}], "sm_id": 99, "locale": "en", "payment": {"bank": "alpha", "amount": 1817, "currency": "USD", "provider": "wbpay", "custom_fee": 0, "payment_dt": 1637907727, "request_id": "", "goods_total": 317, "transaction": "b563feb7b2b84b6test", "delivery_cost": 1500}, "delivery": {"zip": "2639809", "city": "Kiryat Mozkin", "name": "Test Testov", "email": "test@gmail.com", "phone": "+9720000000", "region": "Kraiot", "address": "Ploshad Mira 15"}, "shardkey": "9", "oof_shard": "1", "order_uid": "b563feb7b2b84b6test", "customer_id": "test", "date_created": "2021-11-26T06:22:19Z", "track_number": "WBILMTESTTRACK", "delivery_service": "meest", "internal_signature": ""}
+Server: 2024/01/17 02:44:50 server.go:133: Received signal: interrupt
+Server: 2024/01/17 02:44:50 server.go:219: Server is shutting down...
+Server: 2024/01/17 02:44:50 server.go:152: Shutting down the server...
+Server: 2024/01/17 02:44:50 server.go:158: Error restoring cache from the database: failed to get all IDs from the database: sql: database is closed
+Server: 2024/01/17 02:44:50 server.go:166: Successful creation of a backup
+Server: 2024/01/17 02:47:09 server.go:170: Connected to the database...
+Server: 2024/01/17 02:47:09 server.go:183: Connected to the database successfully
+Server: 2024/01/17 02:47:09 server.go:189: Connecting to NATS...
+Server: 2024/01/17 02:47:09 server.go:198: Connected to NATS successfully
+Server: 2024/01/17 02:47:09 server.go:82: Error occurred: <nil>
+Server: 2024/01/17 02:47:09 server.go:95: Successful data recovery from database
+Server: 2024/01/17 02:47:09 server.go:102: Successful creation of a backup
+Server: 2024/01/17 02:47:09 server.go:141: HTTP server is starting with IP: 127.0.0.1:8080
+Nats: 2024/01/17 02:47:13.433131 Connection...
+Nats: 2024/01/17 02:47:13.477212 Listening for messages...
+Nats: 2024/01/17 02:47:25.911974 Received message: A query to the database with the number has been executed ID: 10
+Server: 2024/01/17 02:47:51 server.go:133: Received signal: interrupt
+Server: 2024/01/17 02:47:51 server.go:219: Server is shutting down...
+Server: 2024/01/17 02:47:51 server.go:152: Shutting down the server...
+Server: 2024/01/17 02:47:51 server.go:158: Error restoring cache from the database: failed to get all IDs from the database: sql: database is closed
+Server: 2024/01/17 02:47:51 server.go:166: Successful creation of a backup
+Server: 2024/01/17 02:47:53 server.go:170: Connected to the database...
+Server: 2024/01/17 02:47:53 server.go:183: Connected to the database successfully
+Server: 2024/01/17 02:47:53 server.go:189: Connecting to NATS...
+Server: 2024/01/17 02:47:53 server.go:198: Connected to NATS successfully
+Server: 2024/01/17 02:47:53 server.go:82: Error occurred: <nil>
+Nats: 2024/01/17 02:47:53.844379 Received message: A query to the database with the number has been executed ID: 4
+Nats: 2024/01/17 02:47:53.844379 Received message: A query to the database with the number has been executed ID: 5
+Nats: 2024/01/17 02:47:53.844895 Received message: A query to the database with the number has been executed ID: 6
+Nats: 2024/01/17 02:47:53.844895 Received message: A query to the database with the number has been executed ID: 7
+Server: 2024/01/17 02:47:53 server.go:95: Successful data recovery from database
+Server: 2024/01/17 02:47:53 server.go:102: Successful creation of a backup
+Server: 2024/01/17 02:47:53 server.go:141: HTTP server is starting with IP: 127.0.0.1:8080
+Nats: 2024/01/17 02:47:53.855674 Received message: A query to the database with the number has been executed ID: 8
+Nats: 2024/01/17 02:47:53.855770 Received message: A query to the database with the number has been executed ID: 9
+Nats: 2024/01/17 02:47:53.855770 Received message: A query to the database with the number has been executed ID: 10
+Nats: 2024/01/17 02:47:58.224634 Received message: A query to the database with the number has been executed ID: 10
+Server: 2024/01/17 02:48:42 server.go:133: Received signal: interrupt
+Server: 2024/01/17 02:48:42 server.go:219: Server is shutting down...
+Server: 2024/01/17 02:48:42 server.go:152: Shutting down the server...
+Server: 2024/01/17 02:48:42 server.go:158: Error restoring cache from the database: failed to get all IDs from the database: sql: database is closed
+Server: 2024/01/17 02:48:42 server.go:166: Successful creation of a backup
+Server: 2024/01/17 02:48:46 server.go:170: Connected to the database...
+Server: 2024/01/17 02:48:46 server.go:183: Connected to the database successfully
+Server: 2024/01/17 02:48:46 server.go:189: Connecting to NATS...
+Server: 2024/01/17 02:48:46 server.go:198: Connected to NATS successfully
+Server: 2024/01/17 02:48:46 server.go:82: Error occurred: <nil>
+Server: 2024/01/17 02:48:46 server.go:95: Successful data recovery from database
+Server: 2024/01/17 02:48:46 server.go:102: Successful creation of a backup
+Server: 2024/01/17 02:48:46 server.go:141: HTTP server is starting with IP: 127.0.0.1:8080
+Nats: 2024/01/17 02:48:47.586998 Connection...
+Nats: 2024/01/17 02:48:47.628722 Listening for messages...
+Nats: 2024/01/17 02:49:04.198064 Received message: A query to the database with the number has been executed ID: 10
+Server: 2024/01/17 02:49:46 server.go:117: Server online 2024-01-17 02:49:46.7758679 +0300 MSK m=+60.167909201
+Server: 2024/01/17 02:50:46 server.go:117: Server online 2024-01-17 02:50:46.7782682 +0300 MSK m=+120.170309501
+Server: 2024/01/17 02:51:46 server.go:117: Server online 2024-01-17 02:51:46.7812304 +0300 MSK m=+180.173271701
+Server: 2024/01/17 02:52:46 server.go:117: Server online 2024-01-17 02:52:46.7849293 +0300 MSK m=+240.176970601
+Server: 2024/01/17 02:53:46 server.go:117: Server online 2024-01-17 02:53:46.7954652 +0300 MSK m=+300.187506501
+Server: 2024/01/17 02:54:46 server.go:117: Server online 2024-01-17 02:54:46.7957475 +0300 MSK m=+360.187788801
+Server: 2024/01/17 02:55:46 server.go:117: Server online 2024-01-17 02:55:46.8102284 +0300 MSK m=+420.202269701
+Server: 2024/01/17 02:56:46 server.go:117: Server online 2024-01-17 02:56:46.8230672 +0300 MSK m=+480.215108501
+Server: 2024/01/17 02:57:29 server.go:133: Received signal: interrupt
+Server: 2024/01/17 02:57:29 server.go:219: Server is shutting down...
+Server: 2024/01/17 02:57:29 server.go:152: Shutting down the server...
+Server: 2024/01/17 02:57:29 server.go:158: Error restoring cache from the database: failed to get all IDs from the database: sql: database is closed
+Server: 2024/01/17 02:57:29 server.go:166: Successful creation of a backup
+Server: 2024/01/17 02:57:32 server.go:170: Connected to the database...
+Server: 2024/01/17 02:57:32 server.go:183: Connected to the database successfully
+Server: 2024/01/17 02:57:32 server.go:189: Connecting to NATS...
+Server: 2024/01/17 02:57:32 server.go:198: Connected to NATS successfully
+Server: 2024/01/17 02:57:32 server.go:82: Error occurred: <nil>
+Server: 2024/01/17 02:57:32 server.go:95: Successful data recovery from database
+Server: 2024/01/17 02:57:32 server.go:102: Successful creation of a backup
+Server: 2024/01/17 02:57:32 server.go:141: HTTP server is starting with IP: 127.0.0.1:8080
+Nats: 2024/01/17 02:57:33.931278 Connection...
+Nats: 2024/01/17 02:57:33.973635 Listening for messages...
+Server: 2024/01/17 02:57:34 server.go:133: Received signal: interrupt
+Server: 2024/01/17 02:57:34 server.go:219: Server is shutting down...
+Server: 2024/01/17 02:57:34 server.go:152: Shutting down the server...
+Server: 2024/01/17 02:57:34 server.go:158: Error restoring cache from the database: failed to get all IDs from the database: sql: database is closed
+Server: 2024/01/17 02:57:34 server.go:166: Successful creation of a backup
+Server: 2024/01/17 02:57:37 server.go:170: Connected to the database...
+Server: 2024/01/17 02:57:37 server.go:183: Connected to the database successfully
+Server: 2024/01/17 02:57:37 server.go:189: Connecting to NATS...
+Server: 2024/01/17 02:57:37 server.go:198: Connected to NATS successfully
+Server: 2024/01/17 02:57:37 server.go:82: Error occurred: <nil>
+Nats: 2024/01/17 02:57:37.139557 Received message: A query to the database with the number has been executed ID: 4
+Nats: 2024/01/17 02:57:37.140066 Received message: A query to the database with the number has been executed ID: 5
+Nats: 2024/01/17 02:57:37.140075 Received message: A query to the database with the number has been executed ID: 6
+Nats: 2024/01/17 02:57:37.140591 Received message: A query to the database with the number has been executed ID: 7
+Nats: 2024/01/17 02:57:37.140591 Received message: A query to the database with the number has been executed ID: 8
+Server: 2024/01/17 02:57:37 server.go:95: Successful data recovery from database
+Nats: 2024/01/17 02:57:37.141112 Received message: A query to the database with the number has been executed ID: 9
+Nats: 2024/01/17 02:57:37.141112 Received message: A query to the database with the number has been executed ID: 10
+Server: 2024/01/17 02:57:37 server.go:102: Successful creation of a backup
+Server: 2024/01/17 02:57:37 server.go:141: HTTP server is starting with IP: 127.0.0.1:8080
+Nats: 2024/01/17 02:58:25.859426 Received message: New data added: {"key": "value"}
+Server: 2024/01/17 02:58:37 server.go:117: Server online 2024-01-17 02:58:37.1483222 +0300 MSK m=+60.101679501
+Server: 2024/01/17 02:59:37 server.go:117: Server online 2024-01-17 02:59:37.1489413 +0300 MSK m=+120.102298601
+Nats: 2024/01/17 02:59:40.516136 Received message: New data added: {"name": "Amber Terry", "email": "katelyn88@example.net", "phone_number": "878.771.3590x01646", "address": "814 Holly Viaduct\nAcostafurt, VI 70773"}
+Nats: 2024/01/17 02:59:40.623984 Received message: New data added: {"key": "value"}
+Server: 2024/01/17 03:00:37 server.go:117: Server online 2024-01-17 03:00:37.1521261 +0300 MSK m=+180.105483401
+Server: 2024/01/17 03:01:37 server.go:117: Server online 2024-01-17 03:01:37.1609587 +0300 MSK m=+240.114316001
+Server: 2024/01/17 03:02:37 server.go:117: Server online 2024-01-17 03:02:37.166192 +0300 MSK m=+300.119549301
+Server: 2024/01/17 03:03:37 server.go:117: Server online 2024-01-17 03:03:37.1757821 +0300 MSK m=+360.129139401
+Server: 2024/01/17 03:04:37 server.go:117: Server online 2024-01-17 03:04:37.1777912 +0300 MSK m=+420.131148501
+Server: 2024/01/17 03:05:37 server.go:117: Server online 2024-01-17 03:05:37.1845698 +0300 MSK m=+480.137927101
+Server: 2024/01/17 03:06:37 server.go:117: Server online 2024-01-17 03:06:37.1846869 +0300 MSK m=+540.138044201
+Server: 2024/01/17 03:07:37 server.go:117: Server online 2024-01-17 03:07:37.1918972 +0300 MSK m=+600.145254501
+Server: 2024/01/17 03:08:37 server.go:117: Server online 2024-01-17 03:08:37.2042804 +0300 MSK m=+660.157637701
+Server: 2024/01/17 03:09:37 server.go:117: Server online 2024-01-17 03:09:37.2163098 +0300 MSK m=+720.169667101
+Server: 2024/01/17 03:10:37 server.go:117: Server online 2024-01-17 03:10:37.2272022 +0300 MSK m=+780.180559501
+Server: 2024/01/17 03:11:37 server.go:117: Server online 2024-01-17 03:11:37.2350538 +0300 MSK m=+840.188411101
+Server: 2024/01/17 03:12:37 server.go:117: Server online 2024-01-17 03:12:37.2429213 +0300 MSK m=+900.196278601
+Server: 2024/01/17 03:13:37 server.go:117: Server online 2024-01-17 03:13:37.255991 +0300 MSK m=+960.209348301
+Server: 2024/01/17 03:14:37 server.go:117: Server online 2024-01-17 03:14:37.256324 +0300 MSK m=+1020.209681301
+Server: 2024/01/17 03:15:37 server.go:117: Server online 2024-01-17 03:15:37.2684711 +0300 MSK m=+1080.221828401
+Server: 2024/01/17 03:16:37 server.go:117: Server online 2024-01-17 03:16:37.2734539 +0300 MSK m=+1140.226811201
+Server: 2024/01/17 03:17:37 server.go:117: Server online 2024-01-17 03:17:37.2751348 +0300 MSK m=+1200.228492101
+Server: 2024/01/17 03:18:37 server.go:117: Server online 2024-01-17 03:18:37.2789772 +0300 MSK m=+1260.232334501
+Server: 2024/01/17 03:19:37 server.go:117: Server online 2024-01-17 03:19:37.2899332 +0300 MSK m=+1320.243290501
+Server: 2024/01/17 03:19:40 server.go:170: Connected to the database...
+Server: 2024/01/17 03:19:40 server.go:183: Connected to the database successfully
+Server: 2024/01/17 03:19:40 server.go:189: Connecting to NATS...
+Server: 2024/01/17 03:19:40 server.go:198: Connected to NATS successfully
+Server: 2024/01/17 03:19:40 server.go:82: Error occurred: <nil>
+Nats: 2024/01/17 03:19:40.536263 Received message: A query to the database with the number has been executed ID: 4
+Nats: 2024/01/17 03:19:40.536780 Received message: A query to the database with the number has been executed ID: 5
+Nats: 2024/01/17 03:19:40.536780 Received message: A query to the database with the number has been executed ID: 6
+Nats: 2024/01/17 03:19:40.537298 Received message: A query to the database with the number has been executed ID: 7
+Nats: 2024/01/17 03:19:40.537298 Received message: A query to the database with the number has been executed ID: 8
+Nats: 2024/01/17 03:19:40.537298 Received message: A query to the database with the number has been executed ID: 9
+Nats: 2024/01/17 03:19:40.537816 Received message: A query to the database with the number has been executed ID: 10
+Server: 2024/01/17 03:19:40 server.go:95: Successful data recovery from database
+Nats: 2024/01/17 03:19:40.537816 Received message: A query to the database with the number has been executed ID: 11
+Nats: 2024/01/17 03:19:40.538336 Received message: A query to the database with the number has been executed ID: 12
+Nats: 2024/01/17 03:19:40.538336 Received message: A query to the database with the number has been executed ID: 13
+Server: 2024/01/17 03:19:40 server.go:102: Successful creation of a backup
+Server: 2024/01/17 03:19:40 server.go:141: HTTP server is starting with IP: 127.0.0.1:8080
+Server: 2024/01/17 03:19:40 server.go:145: Error starting server: listen tcp 127.0.0.1:8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+Nats: 2024/01/17 03:19:40.846264 Connection...
+Nats: 2024/01/17 03:19:40.886881 Listening for messages...
+Server: 2024/01/17 03:20:18 server.go:170: Connected to the database...
+Server: 2024/01/17 03:20:18 server.go:183: Connected to the database successfully
+Server: 2024/01/17 03:20:18 server.go:189: Connecting to NATS...
+Server: 2024/01/17 03:20:18 server.go:198: Connected to NATS successfully
+Server: 2024/01/17 03:20:18 server.go:82: Error occurred: <nil>
+Nats: 2024/01/17 03:20:18.150711 Received message: A query to the database with the number has been executed ID: 4
+Nats: 2024/01/17 03:20:18.151253 Received message: A query to the database with the number has been executed ID: 5
+Nats: 2024/01/17 03:20:18.151767 Received message: A query to the database with the number has been executed ID: 6
+Nats: 2024/01/17 03:20:18.151767 Received message: A query to the database with the number has been executed ID: 7
+Nats: 2024/01/17 03:20:18.152290 Received message: A query to the database with the number has been executed ID: 8
+Nats: 2024/01/17 03:20:18.152290 Received message: A query to the database with the number has been executed ID: 9
+Nats: 2024/01/17 03:20:18.152807 Received message: A query to the database with the number has been executed ID: 10
+Server: 2024/01/17 03:20:18 server.go:95: Successful data recovery from database
+Nats: 2024/01/17 03:20:18.152807 Received message: A query to the database with the number has been executed ID: 11
+Nats: 2024/01/17 03:20:18.152807 Received message: A query to the database with the number has been executed ID: 12
+Nats: 2024/01/17 03:20:18.153321 Received message: A query to the database with the number has been executed ID: 13
+Server: 2024/01/17 03:20:18 server.go:102: Successful creation of a backup
+Server: 2024/01/17 03:20:18 server.go:141: HTTP server is starting with IP: 127.0.0.1:8080
+Server: 2024/01/17 03:20:18 server.go:145: Error starting server: listen tcp 127.0.0.1:8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+Nats: 2024/01/17 03:20:18.417421 Connection...
+Nats: 2024/01/17 03:20:18.458676 Listening for messages...
+Server: 2024/01/17 03:20:37 server.go:117: Server online 2024-01-17 03:20:37.299376 +0300 MSK m=+1380.252733301
+Server: 2024/01/17 03:20:51 server.go:170: Connected to the database...
+Server: 2024/01/17 03:20:51 server.go:183: Connected to the database successfully
+Server: 2024/01/17 03:20:51 server.go:189: Connecting to NATS...
+Server: 2024/01/17 03:20:51 server.go:198: Connected to NATS successfully
+Server: 2024/01/17 03:20:51 server.go:82: Error occurred: <nil>
+Nats: 2024/01/17 03:20:51.276237 Received message: A query to the database with the number has been executed ID: 4
+Nats: 2024/01/17 03:20:51.276760 Received message: A query to the database with the number has been executed ID: 5
+Nats: 2024/01/17 03:20:51.276760 Received message: A query to the database with the number has been executed ID: 6
+Nats: 2024/01/17 03:20:51.277283 Received message: A query to the database with the number has been executed ID: 7
+Nats: 2024/01/17 03:20:51.277283 Received message: A query to the database with the number has been executed ID: 8
+Nats: 2024/01/17 03:20:51.277833 Received message: A query to the database with the number has been executed ID: 9
+Nats: 2024/01/17 03:20:51.277833 Received message: A query to the database with the number has been executed ID: 10
+Server: 2024/01/17 03:20:51 server.go:95: Successful data recovery from database
+Nats: 2024/01/17 03:20:51.278357 Received message: A query to the database with the number has been executed ID: 11
+Nats: 2024/01/17 03:20:51.278357 Received message: A query to the database with the number has been executed ID: 12
+Nats: 2024/01/17 03:20:51.278878 Received message: A query to the database with the number has been executed ID: 13
+Server: 2024/01/17 03:20:51 server.go:102: Successful creation of a backup
+Server: 2024/01/17 03:20:51 server.go:141: HTTP server is starting with IP: 127.0.0.1:8080
+Server: 2024/01/17 03:20:51 server.go:145: Error starting server: listen tcp 127.0.0.1:8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+Nats: 2024/01/17 03:20:51.482575 Connection...
+Nats: 2024/01/17 03:20:51.523721 Listening for messages...
+Server: 2024/01/17 03:21:10 server.go:170: Connected to the database...
+Server: 2024/01/17 03:21:11 server.go:183: Connected to the database successfully
+Server: 2024/01/17 03:21:11 server.go:189: Connecting to NATS...
+Server: 2024/01/17 03:21:11 server.go:198: Connected to NATS successfully
+Server: 2024/01/17 03:21:11 server.go:82: Error occurred: <nil>
+Nats: 2024/01/17 03:21:11.151375 Received message: A query to the database with the number has been executed ID: 4
+Nats: 2024/01/17 03:21:11.151896 Received message: A query to the database with the number has been executed ID: 5
+Nats: 2024/01/17 03:21:11.151896 Received message: A query to the database with the number has been executed ID: 6
+Server: 2024/01/17 03:21:11 server.go:95: Successful data recovery from database
+Server: 2024/01/17 03:21:11 server.go:102: Successful creation of a backup
+Server: 2024/01/17 03:21:11 server.go:141: HTTP server is starting with IP: 127.0.0.1:8080
+Server: 2024/01/17 03:21:11 server.go:145: Error starting server: listen tcp 127.0.0.1:8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+Nats: 2024/01/17 03:21:11.157074 Received message: A query to the database with the number has been executed ID: 7
+Nats: 2024/01/17 03:21:11.157074 Received message: A query to the database with the number has been executed ID: 8
+Nats: 2024/01/17 03:21:11.157601 Received message: A query to the database with the number has been executed ID: 9
+Nats: 2024/01/17 03:21:11.157601 Received message: A query to the database with the number has been executed ID: 10
+Nats: 2024/01/17 03:21:11.158117 Received message: A query to the database with the number has been executed ID: 11
+Nats: 2024/01/17 03:21:11.158117 Received message: A query to the database with the number has been executed ID: 12
+Nats: 2024/01/17 03:21:11.158117 Received message: A query to the database with the number has been executed ID: 13
+Nats: 2024/01/17 03:21:11.128008 Connection...
+Nats: 2024/01/17 03:21:11.171607 Listening for messages...
+Server: 2024/01/17 03:21:29 server.go:133: Received signal: interrupt
+Server: 2024/01/17 03:21:29 server.go:219: Server is shutting down...
+Server: 2024/01/17 03:21:29 server.go:152: Shutting down the server...
+Server: 2024/01/17 03:21:29 server.go:158: Error restoring cache from the database: failed to get all IDs from the database: sql: database is closed
+Server: 2024/01/17 03:21:29 server.go:166: Successful creation of a backup
+Nats: 2024/01/17 03:22:26.000915 Connection...
+Nats: 2024/01/17 03:22:26.042714 Listening for messages...
+Server: 2024/01/17 03:22:30 server.go:170: Connected to the database...
+Server: 2024/01/17 03:22:30 server.go:183: Connected to the database successfully
+Server: 2024/01/17 03:22:30 server.go:189: Connecting to NATS...
+Server: 2024/01/17 03:22:30 server.go:198: Connected to NATS successfully
+Server: 2024/01/17 03:22:30 server.go:82: Error occurred: <nil>
+Nats: 2024/01/17 03:22:30.816886 Received message: A query to the database with the number has been executed ID: 4
+Nats: 2024/01/17 03:22:30.817400 Received message: A query to the database with the number has been executed ID: 5
+Nats: 2024/01/17 03:22:30.817400 Received message: A query to the database with the number has been executed ID: 6
+Nats: 2024/01/17 03:22:30.817909 Received message: A query to the database with the number has been executed ID: 7
+Nats: 2024/01/17 03:22:30.817934 Received message: A query to the database with the number has been executed ID: 8
+Nats: 2024/01/17 03:22:30.817934 Received message: A query to the database with the number has been executed ID: 9
+Nats: 2024/01/17 03:22:30.818518 Received message: A query to the database with the number has been executed ID: 10
+Nats: 2024/01/17 03:22:30.818518 Received message: A query to the database with the number has been executed ID: 11
+Nats: 2024/01/17 03:22:30.818518 Received message: A query to the database with the number has been executed ID: 12
+Nats: 2024/01/17 03:22:30.819101 Received message: A query to the database with the number has been executed ID: 13
+Server: 2024/01/17 03:22:30 server.go:95: Successful data recovery from database
+Server: 2024/01/17 03:22:30 server.go:102: Successful creation of a backup
+Server: 2024/01/17 03:22:30 server.go:141: HTTP server is starting with IP: 127.0.0.1:8080
+Server: 2024/01/17 03:22:39 server.go:133: Received signal: interrupt
+Server: 2024/01/17 03:22:39 server.go:219: Server is shutting down...
+Server: 2024/01/17 03:22:39 server.go:152: Shutting down the server...
+Server: 2024/01/17 03:22:39 server.go:158: Error restoring cache from the database: failed to get all IDs from the database: sql: database is closed
+Server: 2024/01/17 03:22:39 server.go:166: Successful creation of a backup
+Nats: 2024/01/17 03:24:46.916816 Connection...
+Nats: 2024/01/17 03:24:46.962485 Listening for messages...
+Server: 2024/01/17 03:24:48 Server.go:170: Connected to the database...
+Server: 2024/01/17 03:24:48 Server.go:183: Connected to the database successfully
+Server: 2024/01/17 03:24:48 Server.go:189: Connecting to NATS...
+Server: 2024/01/17 03:24:48 Server.go:198: Connected to NATS successfully
+Server: 2024/01/17 03:24:48 Server.go:82: Error occurred: <nil>
+Nats: 2024/01/17 03:24:48.200392 Received message: A query to the database with the number has been executed ID: 4
+Nats: 2024/01/17 03:24:48.200898 Received message: A query to the database with the number has been executed ID: 5
+Nats: 2024/01/17 03:24:48.201413 Received message: A query to the database with the number has been executed ID: 6
+Nats: 2024/01/17 03:24:48.201413 Received message: A query to the database with the number has been executed ID: 7
+Nats: 2024/01/17 03:24:48.201413 Received message: A query to the database with the number has been executed ID: 8
+Nats: 2024/01/17 03:24:48.201945 Received message: A query to the database with the number has been executed ID: 9
+Nats: 2024/01/17 03:24:48.201945 Received message: A query to the database with the number has been executed ID: 10
+Nats: 2024/01/17 03:24:48.201945 Received message: A query to the database with the number has been executed ID: 11
+Nats: 2024/01/17 03:24:48.202464 Received message: A query to the database with the number has been executed ID: 12
+Server: 2024/01/17 03:24:48 Server.go:95: Successful data recovery from database
+Nats: 2024/01/17 03:24:48.202464 Received message: A query to the database with the number has been executed ID: 13
+Server: 2024/01/17 03:24:48 Server.go:102: Successful creation of a backup
+Server: 2024/01/17 03:24:48 Server.go:141: HTTP server is starting with IP: 127.0.0.1:8080
+Server: 2024/01/17 03:24:50 Server.go:133: Received signal: terminated
+Server: 2024/01/17 03:24:50 Server.go:219: Server is shutting down...
+Server: 2024/01/17 03:24:50 Server.go:152: Shutting down the server...
+Server: 2024/01/17 03:24:50 Server.go:158: Error restoring cache from the database: failed to get all IDs from the database: sql: database is closed
+Server: 2024/01/17 03:24:50 Server.go:166: Successful creation of a backup
+Server: 2024/01/17 03:28:06 Server.go:170: Connected to the database...
+Server: 2024/01/17 03:28:06 Server.go:183: Connected to the database successfully
+Server: 2024/01/17 03:28:06 Server.go:189: Connecting to NATS...
+Server: 2024/01/17 03:28:06 Server.go:198: Connected to NATS successfully
+Server: 2024/01/17 03:28:06 Server.go:82: Error occurred: <nil>
+Server: 2024/01/17 03:28:06 Server.go:95: Successful data recovery from database
+Server: 2024/01/17 03:28:06 Server.go:102: Successful creation of a backup
+Server: 2024/01/17 03:28:06 Server.go:141: HTTP server is starting with IP: 127.0.0.1:8080
+Nats: 2024/01/17 03:28:06.820716 Connection...
+Nats: 2024/01/17 03:28:06.861663 Listening for messages...
+Server: 2024/01/17 03:28:11 Server.go:133: Received signal: terminated
+Server: 2024/01/17 03:28:11 Server.go:219: Server is shutting down...
+Server: 2024/01/17 03:28:11 Server.go:152: Shutting down the server...
+Server: 2024/01/17 03:28:11 Server.go:158: Error restoring cache from the database: failed to get all IDs from the database: sql: database is closed
+Server: 2024/01/17 03:28:11 Server.go:166: Successful creation of a backup
+Nats: 2024/01/17 03:28:18.530657 Connection...
+Nats: 2024/01/17 03:28:18.570955 Listening for messages...
+Server: 2024/01/17 03:28:20 Server.go:170: Connected to the database...
+Server: 2024/01/17 03:28:20 Server.go:183: Connected to the database successfully
+Server: 2024/01/17 03:28:20 Server.go:189: Connecting to NATS...
+Server: 2024/01/17 03:28:20 Server.go:198: Connected to NATS successfully
+Server: 2024/01/17 03:28:20 Server.go:82: Error occurred: <nil>
+Nats: 2024/01/17 03:28:20.315097 Received message: A query to the database with the number has been executed ID: 4
+Nats: 2024/01/17 03:28:20.315604 Received message: A query to the database with the number has been executed ID: 5
+Nats: 2024/01/17 03:28:20.315604 Received message: A query to the database with the number has been executed ID: 6
+Nats: 2024/01/17 03:28:20.316123 Received message: A query to the database with the number has been executed ID: 7
+Nats: 2024/01/17 03:28:20.316123 Received message: A query to the database with the number has been executed ID: 8
+Nats: 2024/01/17 03:28:20.316642 Received message: A query to the database with the number has been executed ID: 9
+Nats: 2024/01/17 03:28:20.316642 Received message: A query to the database with the number has been executed ID: 10
+Nats: 2024/01/17 03:28:20.316642 Received message: A query to the database with the number has been executed ID: 11
+Nats: 2024/01/17 03:28:20.317201 Received message: A query to the database with the number has been executed ID: 12
+Server: 2024/01/17 03:28:20 Server.go:95: Successful data recovery from database
+Nats: 2024/01/17 03:28:20.317201 Received message: A query to the database with the number has been executed ID: 13
+Server: 2024/01/17 03:28:20 Server.go:102: Successful creation of a backup
+Server: 2024/01/17 03:28:20 Server.go:141: HTTP server is starting with IP: 127.0.0.1:8080
+Server: 2024/01/17 03:28:24 Server.go:133: Received signal: terminated
+Server: 2024/01/17 03:28:24 Server.go:219: Server is shutting down...
+Server: 2024/01/17 03:28:24 Server.go:152: Shutting down the server...
+Server: 2024/01/17 03:28:24 Server.go:158: Error restoring cache from the database: failed to get all IDs from the database: sql: database is closed
+Server: 2024/01/17 03:28:24 Server.go:166: Successful creation of a backup
+Nats: 2024/01/17 03:44:25.770483 Connection...
+Nats: 2024/01/17 03:44:25.838881 Listening for messages...
+Server: 2024/01/17 03:44:26 Server.go:170: Connected to the database...
+Server: 2024/01/17 03:44:27 Server.go:183: Connected to the database successfully
+Server: 2024/01/17 03:44:27 Server.go:189: Connecting to NATS...
+Server: 2024/01/17 03:44:27 Server.go:198: Connected to NATS successfully
+Server: 2024/01/17 03:44:27 Server.go:82: Error occurred: <nil>
+Nats: 2024/01/17 03:44:27.033922 Received message: A query to the database with the number has been executed ID: 4
+Nats: 2024/01/17 03:44:27.033922 Received message: A query to the database with the number has been executed ID: 5
+Nats: 2024/01/17 03:44:27.034461 Received message: A query to the database with the number has been executed ID: 6
+Nats: 2024/01/17 03:44:27.034461 Received message: A query to the database with the number has been executed ID: 7
+Nats: 2024/01/17 03:44:27.034972 Received message: A query to the database with the number has been executed ID: 8
+Nats: 2024/01/17 03:44:27.034972 Received message: A query to the database with the number has been executed ID: 9
+Nats: 2024/01/17 03:44:27.034972 Received message: A query to the database with the number has been executed ID: 10
+Nats: 2024/01/17 03:44:27.035484 Received message: A query to the database with the number has been executed ID: 11
+Nats: 2024/01/17 03:44:27.035484 Received message: A query to the database with the number has been executed ID: 12
+Nats: 2024/01/17 03:44:27.036097 Received message: A query to the database with the number has been executed ID: 13
+Server: 2024/01/17 03:44:27 Server.go:95: Successful data recovery from database
+Server: 2024/01/17 03:44:27 Server.go:102: Successful creation of a backup
+Server: 2024/01/17 03:44:27 Server.go:141: HTTP server is starting with IP: 127.0.0.1:8080
+Nats: 2024/01/17 03:44:43.443960 Received message: A query to the database with the number has been executed ID: 10
+Nats: 2024/01/17 03:44:54.167617 Received message: New data added: {"entry": "WBIL", "items": [{"rid": "ab4219087a764ae0btest", "name": "Mascaras", "sale": 30, "size": "0", "brand": "Vivienne Sabo", "nm_id": 2389212, "price": 453, "status": 202, "chrt_id": 9934930, "total_price": 317, "track_number": "WBILMTESTTRACK"}], "sm_id": 99, "locale": "en", "payment": {"bank": "alpha", "amount": 1817, "currency": "USD", "provider": "wbpay", "custom_fee": 0, "payment_dt": 1637907727, "request_id": "", "goods_total": 317, "transaction": "b563feb7b2b84b6test", "delivery_cost": 1500}, "delivery": {"zip": "2639809", "city": "Kiryat Mozkin", "name": "Test Testov", "email": "test@gmail.com", "phone": "+9720000000", "region": "Kraiot", "address": "Ploshad Mira 15"}, "shardkey": "9", "oof_shard": "1", "order_uid": "b563feb7b2b84b6test", "customer_id": "test", "date_created": "2021-11-26T06:22:19Z", "track_number": "WBILMTESTTRACK", "delivery_service": "meest", "internal_signature": ""}
+Server: 2024/01/17 03:45:27 Server.go:117: Server online 2024-01-17 03:45:27.0436959 +0300 MSK m=+60.103345601
+Nats: 2024/01/17 03:45:51.616699 Received message: New data added: {"entry": "WBIL", "items": [{"rid": "ab4219087a764ae0btest", "name": "Mascaras", "sale": 30, "size": "0", "brand": "Vivienne Sabo", "nm_id": 2389212, "price": 453, "status": 202, "chrt_id": 9934930, "total_price": 317, "track_number": "WBILMTESTTRACK"}], "sm_id": 99, "locale": "en", "payment": {"bank": "alpha", "amount": 1817, "currency": "USD", "provider": "wbpay", "custom_fee": 0, "payment_dt": 1637907727, "request_id": "", "goods_total": 317, "transaction": "b563feb7b2b84b6test", "delivery_cost": 1500}, "delivery": {"zip": "2639809", "city": "Kiryat Mozkin", "name": "Test Testov", "email": "test@gmail.com", "phone": "+9720000000", "region": "Kraiot", "address": "Ploshad Mira 15"}, "shardkey": "9", "oof_shard": "1", "order_uid": "b563feb7b2b84b6test", "customer_id": "test", "date_created": "2021-11-26T06:22:19Z", "track_number": "WBILMTESTTRACK", "delivery_service": "meest", "internal_signature": ""}
+Server: 2024/01/17 03:46:27 Server.go:117: Server online 2024-01-17 03:46:27.0463572 +0300 MSK m=+120.106006901
+Server: 2024/01/17 03:46:56 Server.go:133: Received signal: interrupt
+Server: 2024/01/17 03:46:56 Server.go:219: Server is shutting down...
+Server: 2024/01/17 03:46:56 Server.go:152: Shutting down the server...
+Server: 2024/01/17 03:46:56 Server.go:158: Error restoring cache from the database: failed to get all IDs from the database: sql: database is closed
+Server: 2024/01/17 03:46:56 Server.go:166: Successful creation of a backup
+Nats: 2024/01/17 03:49:17.908727 Connection...
+Nats: 2024/01/17 03:49:17.950624 Listening for messages...
+Server: 2024/01/17 03:49:20 Server.go:170: Connected to the database...
+Server: 2024/01/17 03:49:20 Server.go:183: Connected to the database successfully
+Server: 2024/01/17 03:49:20 Server.go:189: Connecting to NATS...
+Server: 2024/01/17 03:49:20 Server.go:198: Connected to NATS successfully
+Server: 2024/01/17 03:49:20 Server.go:82: Error occurred: <nil>
+Nats: 2024/01/17 03:49:20.147404 Received message: A query to the database with the number has been executed ID: 4
+Nats: 2024/01/17 03:49:20.147404 Received message: A query to the database with the number has been executed ID: 5
+Nats: 2024/01/17 03:49:20.147922 Received message: A query to the database with the number has been executed ID: 6
+Nats: 2024/01/17 03:49:20.147922 Received message: A query to the database with the number has been executed ID: 7
+Nats: 2024/01/17 03:49:20.147922 Received message: A query to the database with the number has been executed ID: 8
+Nats: 2024/01/17 03:49:20.148431 Received message: A query to the database with the number has been executed ID: 9
+Nats: 2024/01/17 03:49:20.148431 Received message: A query to the database with the number has been executed ID: 10
+Nats: 2024/01/17 03:49:20.148431 Received message: A query to the database with the number has been executed ID: 11
+Nats: 2024/01/17 03:49:20.149056 Received message: A query to the database with the number has been executed ID: 12
+Nats: 2024/01/17 03:49:20.149056 Received message: A query to the database with the number has been executed ID: 13
+Nats: 2024/01/17 03:49:20.149056 Received message: A query to the database with the number has been executed ID: 14
+Nats: 2024/01/17 03:49:20.149571 Received message: A query to the database with the number has been executed ID: 15
+Nats: 2024/01/17 03:49:20.149571 Received message: A query to the database with the number has been executed ID: 16
+Nats: 2024/01/17 03:49:20.149571 Received message: A query to the database with the number has been executed ID: 17
+Server: 2024/01/17 03:49:20 Server.go:95: Successful data recovery from database
+Server: 2024/01/17 03:49:20 Server.go:102: Successful creation of a backup
+Server: 2024/01/17 03:49:20 Server.go:141: HTTP server is starting with IP: 127.0.0.1:8080
+Nats: 2024/01/17 03:50:08.529317 Received message: A query to the database with the number has been executed ID: 16
+Nats: 2024/01/17 03:50:10.667619 Received message: A query to the database with the number has been executed ID: 15
+Nats: 2024/01/17 03:50:12.219303 Received message: A query to the database with the number has been executed ID: 14
+Nats: 2024/01/17 03:50:14.126235 Received message: A query to the database with the number has been executed ID: 13
+Nats: 2024/01/17 03:50:17.307019 Received message: A query to the database with the number has been executed ID: 12
+Server: 2024/01/17 03:50:20 Server.go:117: Server online 2024-01-17 03:50:20.1596941 +0300 MSK m=+60.133937501
+Nats: 2024/01/17 03:51:19.613648 Received message: A query to the database with the number has been executed ID: 11
+Nats: 2024/01/17 03:51:19.614470 Received message: A query to the database with the number has been executed ID: 10
+Nats: 2024/01/17 03:51:19.614470 Received message: A query to the database with the number has been executed ID: 11
+Nats: 2024/01/17 03:51:19.614470 Received message: New data added: {"key": "value"}
+Nats: 2024/01/17 03:51:19.615087 Received message: A query to the database with the number has been executed ID: 12
+Nats: 2024/01/17 03:51:19.615193 Received message: New data added: {"name": "Amber Terry", "email": "katelyn88@example.net", "address": "814 Holly Viaduct\nAcostafurt, VI 70773", "phone_number": "878.771.3590x01646"}
+Nats: 2024/01/17 03:51:19.615193 Received message: A query to the database with the number has been executed ID: 14
+Nats: 2024/01/17 03:51:19.615193 Received message: New data added: {"entry": "WBIL", "items": [{"rid": "ab4219087a764ae0btest", "name": "Mascaras", "sale": 30, "size": "0", "brand": "Vivienne Sabo", "nm_id": 2389212, "price": 453, "status": 202, "chrt_id": 9934930, "total_price": 317, "track_number": "WBILMTESTTRACK"}], "sm_id": 99, "locale": "en", "payment": {"bank": "alpha", "amount": 1817, "currency": "USD", "provider": "wbpay", "custom_fee": 0, "payment_dt": 1637907727, "request_id": "", "goods_total": 317, "transaction": "b563feb7b2b84b6test", "delivery_cost": 1500}, "delivery": {"zip": "2639809", "city": "Kiryat Mozkin", "name": "Test Testov", "email": "test@gmail.com", "phone": "+9720000000", "region": "Kraiot", "address": "Ploshad Mira 15"}, "shardkey": "9", "oof_shard": "1", "order_uid": "b563feb7b2b84b6test", "customer_id": "test", "date_created": "2021-11-26T06:22:19Z", "track_number": "WBILMTESTTRACK", "delivery_service": "meest", "internal_signature": ""}
+Nats: 2024/01/17 03:51:19.615733 Received message: A query to the database with the number has been executed ID: 20
+Server: 2024/01/17 03:51:20 Server.go:117: Server online 2024-01-17 03:51:20.1717482 +0300 MSK m=+120.145991601
+Server: 2024/01/17 03:51:32 Server.go:133: Received signal: interrupt
+Server: 2024/01/17 03:51:32 Server.go:219: Server is shutting down...
+Server: 2024/01/17 03:51:32 Server.go:152: Shutting down the server...
+Server: 2024/01/17 03:51:32 Server.go:158: Error restoring cache from the database: failed to get all IDs from the database: sql: database is closed
+Server: 2024/01/17 03:51:32 Server.go:166: Successful creation of a backup

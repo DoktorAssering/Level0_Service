@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jma Service</title>
+    <style>
+    body {
+        font-family: 'Arial', sans-serif;
+        margin: 20px;
+        padding: 20px;
+        background-color: #074760;
+        text-align: center;
+        background-size: cover;
+    }
+    
+    h1 {
+        color: #141414;
+        margin: 0px 0px 60px 0px;
+    }
+    
+    form {
+        margin-top: 20px;
+    }
+    
+    label {
+        font-weight: bold;
+        margin-right: 10px;
+    }
+    
+    input, textarea {
+        padding: 5px;
+        margin-bottom: 10px;
+    }
+    
+    button {
+        padding: 8px 15px;
+        background-color: #0a2c54;
+        color: #fff;
+        border: none;
+        cursor: pointer;
+    }
+    
+    button:hover {
+        background-color: #0a2c54;
+    }
+    
+    h2 {
+        margin-top: 20px;
+    }
+
+    h3 {
+        margin-top: 20px;
+    }
+    
+    pre {
+        background-color: #acacac;
+        padding: 10px;
+        border-radius: 5px;
+        overflow-x: auto;
+        overflow-y: auto;
+    }
+    </style>
+</head>
+<body>
+    <h1>Service Manager</h1>
+    <h3>Просмотреть JSON данные</h3>
+    <form action="/get-json" method="post">
+        <label for="inputNumber">Введите номер:</label>
+        <input type="number" id="inputNumber" name="number" required>
+        <button type="submit">Получить данные</button>
+    </form>
+
+    <h2>Добавить JSON данные</h2>
+    <form action="/add-json" method="post">
+        <label for="inputJson">Введите JSON:</label>
+        <textarea id="inputJson" name="jsonData" rows="4" cols="50" required></textarea>
+        <button type="submit">Добавить данные</button>
+    </form>
+
+    <form id="get-all-ids-form" action="/get-all-ids" method="post">
+        <h3>Вывести все ID</h3>
+        <button type="submit" id="get-all-ids-btn">Получить все ID</button>
+        <div id="all-ids"></div>
+    </form>   
+
+    {{if .Info}}
+        <h2>Данные JSON ID: {{.Number}}</h2>
+        <pre id="json-data">{{.Info}}</pre>
+        <button onclick="copyToClipboard()">Скопировать</button>
+        <script>function copyToClipboard() {
+            var jsonData = document.getElementById('json-data');
+            var range = document.createRange();
+            range.selectNode(jsonData);
+            window.getSelection().removeAllRanges();
+            window.getSelection().addRange(range);
+            document.execCommand('copy');
+            window.getSelection().removeAllRanges();
+            alert('Данные скопированы в буфер обмена');
+        }</script>
+    {{end}}
+
+    <script src=".\js\script.js"></script>
+</body>
+</html>
