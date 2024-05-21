@@ -1,23 +1,18 @@
-FROM golang1.19 as builder
+version: '3.8'
 
-WORKDIR app
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    environment:
+      - DATABASE_URL=postgres://user:password@hostname:port/dbname
 
-COPY . .
-
-WORKDIR appServiceApp
-
-RUN go mod download
-RUN go build -o server .
-
-FROM alpinelatest
-
-RUN apk --no-cache add ca-certificates
-RUN apk --no-cache add postgresql-client
-
-WORKDIR root
-
-COPY --from=builder appServiceAppserver .
-
-EXPOSE 8080
-
-CMD [.server]
+  nginx:
+    build:
+      context: .
+      dockerfile: Dockerfile.nginx
+    ports:
+      - "80:80"
