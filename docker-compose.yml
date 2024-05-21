@@ -1,0 +1,23 @@
+FROM golang1.19 as builder
+
+WORKDIR app
+
+COPY . .
+
+WORKDIR appServiceApp
+
+RUN go mod download
+RUN go build -o server .
+
+FROM alpinelatest
+
+RUN apk --no-cache add ca-certificates
+RUN apk --no-cache add postgresql-client
+
+WORKDIR root
+
+COPY --from=builder appServiceAppserver .
+
+EXPOSE 8080
+
+CMD [.server]

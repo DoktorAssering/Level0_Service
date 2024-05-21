@@ -866,3 +866,97 @@ Server: 2024/01/17 03:51:32 Server.go:219: Server is shutting down...
 Server: 2024/01/17 03:51:32 Server.go:152: Shutting down the server...
 Server: 2024/01/17 03:51:32 Server.go:158: Error restoring cache from the database: failed to get all IDs from the database: sql: database is closed
 Server: 2024/01/17 03:51:32 Server.go:166: Successful creation of a backup
+Nats: 2024/01/19 04:52:49.849377 Connection...
+Nats: 2024/01/19 04:52:49.934855 Error connecting to NATS: dial tcp 127.0.0.1:4222: connectex: No connection could be made because the target machine actively refused it.
+Nats: 2024/01/19 04:52:49.934855 dial tcp 127.0.0.1:4222: connectex: No connection could be made because the target machine actively refused it.
+Server: 2024/01/19 04:52:51 Server.go:170: Connected to the database...
+Server: 2024/01/19 04:52:51 Server.go:183: Connected to the database successfully
+Server: 2024/01/19 04:52:51 Server.go:189: Connecting to NATS...
+Server: 2024/01/19 04:52:51 Server.go:194: Error connecting to NATS
+Server: 2024/01/19 04:52:51 Server.go:74: dial tcp [::1]:4222: connectex: No connection could be made because the target machine actively refused it.
+Nats: 2024/01/19 04:53:44.635780 Connection...
+Nats: 2024/01/19 04:53:44.857290 Error connecting to NATS: dial tcp 127.0.0.1:4222: connectex: No connection could be made because the target machine actively refused it.
+Nats: 2024/01/19 04:53:44.857807 dial tcp 127.0.0.1:4222: connectex: No connection could be made because the target machine actively refused it.
+Server: 2024/01/19 04:53:45 Server.go:170: Connected to the database...
+Server: 2024/01/19 04:53:46 Server.go:183: Connected to the database successfully
+Server: 2024/01/19 04:53:46 Server.go:189: Connecting to NATS...
+Server: 2024/01/19 04:53:46 Server.go:194: Error connecting to NATS
+Server: 2024/01/19 04:53:46 Server.go:74: dial tcp 127.0.0.1:4222: connectex: No connection could be made because the target machine actively refused it.
+Nats: 2024/01/19 04:54:16.304040 Connection...
+Nats: 2024/01/19 04:54:16.484631 Error connecting to NATS: dial tcp [::1]:4222: connectex: No connection could be made because the target machine actively refused it.
+Nats: 2024/01/19 04:54:16.485629 dial tcp [::1]:4222: connectex: No connection could be made because the target machine actively refused it.
+Server: 2024/01/19 04:54:18 Server.go:170: Connected to the database...
+Server: 2024/01/19 04:54:18 Server.go:183: Connected to the database successfully
+Server: 2024/01/19 04:54:18 Server.go:189: Connecting to NATS...
+Server: 2024/01/19 04:54:18 Server.go:194: Error connecting to NATS
+Server: 2024/01/19 04:54:18 Server.go:74: dial tcp 127.0.0.1:4222: connectex: No connection could be made because the target machine actively refused it.
+Nats: 2024/01/19 04:54:40.044202 Connection...
+Nats: 2024/01/19 04:54:40.253107 Listening for messages...
+Server: 2024/01/19 04:54:41 Server.go:170: Connected to the database...
+Server: 2024/01/19 04:54:41 Server.go:183: Connected to the database successfully
+Server: 2024/01/19 04:54:41 Server.go:189: Connecting to NATS...
+Server: 2024/01/19 04:54:41 Server.go:198: Connected to NATS successfully
+Server: 2024/01/19 04:54:41 Server.go:82: Error occurred: <nil>
+Nats: 2024/01/19 04:54:41.468809 Received message: A query to the database with the number has been executed ID: 4
+Nats: 2024/01/19 04:54:41.468809 Received message: A query to the database with the number has been executed ID: 5
+Nats: 2024/01/19 04:54:41.469332 Received message: A query to the database with the number has been executed ID: 6
+Nats: 2024/01/19 04:54:41.469332 Received message: A query to the database with the number has been executed ID: 7
+Nats: 2024/01/19 04:54:41.469902 Received message: A query to the database with the number has been executed ID: 8
+Nats: 2024/01/19 04:54:41.469902 Received message: A query to the database with the number has been executed ID: 9
+Nats: 2024/01/19 04:54:41.469902 Received message: A query to the database with the number has been executed ID: 10
+Nats: 2024/01/19 04:54:41.470413 Received message: A query to the database with the number has been executed ID: 11
+Nats: 2024/01/19 04:54:41.470413 Received message: A query to the database with the number has been executed ID: 12
+Nats: 2024/01/19 04:54:41.470413 Received message: A query to the database with the number has been executed ID: 13
+Nats: 2024/01/19 04:54:41.470928 Received message: A query to the database with the number has been executed ID: 14
+Nats: 2024/01/19 04:54:41.470928 Received message: A query to the database with the number has been executed ID: 15
+Nats: 2024/01/19 04:54:41.470928 Received message: A query to the database with the number has been executed ID: 16
+Nats: 2024/01/19 04:54:41.471481 Received message: A query to the database with the number has been executed ID: 17
+Nats: 2024/01/19 04:54:41.471481 Received message: A query to the database with the number has been executed ID: 18
+Nats: 2024/01/19 04:54:41.471481 Received message: A query to the database with the number has been executed ID: 19
+Nats: 2024/01/19 04:54:41.471999 Received message: A query to the database with the number has been executed ID: 20
+Server: 2024/01/19 04:54:41 Server.go:95: Successful data recovery from database
+Server: 2024/01/19 04:54:41 Server.go:102: Successful creation of a backup
+Server: 2024/01/19 04:54:41 Server.go:141: HTTP server is starting with IP: 127.0.0.1:8080
+Nats: 2024/01/19 04:55:29.131952 Received message: A query to the database with the number has been executed ID: 19
+Server: 2024/01/19 04:55:41 Server.go:117: Server online 2024-01-19 04:55:41.4851986 +0300 MSK m=+60.228718501
+Server: 2024/01/19 04:56:41 Server.go:117: Server online 2024-01-19 04:56:41.4953564 +0300 MSK m=+120.238876301
+Nats: 2024/01/19 04:56:58.146128 Received message: New data added: {"name": "Amber Terry", "email": "katelyn88@example.net", "address": "814 Holly Viaduct\nAcostafurt, VI 70773", "phone_number": "878.771.3590x01646"}
+Server: 2024/01/19 04:57:04 Server.go:133: Received signal: terminated
+Server: 2024/01/19 04:57:04 Server.go:219: Server is shutting down...
+Server: 2024/01/19 04:57:04 Server.go:152: Shutting down the server...
+Server: 2024/01/19 04:57:04 Server.go:158: Error restoring cache from the database: failed to get all IDs from the database: sql: database is closed
+Server: 2024/01/19 04:57:04 Server.go:166: Successful creation of a backup
+Nats: 2024/02/07 14:59:34.587656 Connection...
+Nats: 2024/02/07 14:59:34.638334 Listening for messages...
+Server: 2024/02/07 14:59:59 server.go:170: Connected to the database...
+Server: 2024/02/07 15:00:00 server.go:183: Connected to the database successfully
+Server: 2024/02/07 15:00:00 server.go:189: Connecting to NATS...
+Server: 2024/02/07 15:00:00 server.go:198: Connected to NATS successfully
+Server: 2024/02/07 15:00:00 server.go:82: Error occurred: <nil>
+Nats: 2024/02/07 15:00:00.292101 Received message: A query to the database with the number has been executed ID: 4
+Nats: 2024/02/07 15:00:00.292101 Received message: A query to the database with the number has been executed ID: 5
+Nats: 2024/02/07 15:00:00.292633 Received message: A query to the database with the number has been executed ID: 6
+Nats: 2024/02/07 15:00:00.293154 Received message: A query to the database with the number has been executed ID: 7
+Nats: 2024/02/07 15:00:00.293154 Received message: A query to the database with the number has been executed ID: 8
+Nats: 2024/02/07 15:00:00.293154 Received message: A query to the database with the number has been executed ID: 9
+Nats: 2024/02/07 15:00:00.293699 Received message: A query to the database with the number has been executed ID: 10
+Nats: 2024/02/07 15:00:00.293699 Received message: A query to the database with the number has been executed ID: 11
+Nats: 2024/02/07 15:00:00.294222 Received message: A query to the database with the number has been executed ID: 12
+Nats: 2024/02/07 15:00:00.294222 Received message: A query to the database with the number has been executed ID: 13
+Nats: 2024/02/07 15:00:00.294745 Received message: A query to the database with the number has been executed ID: 14
+Nats: 2024/02/07 15:00:00.294745 Received message: A query to the database with the number has been executed ID: 15
+Nats: 2024/02/07 15:00:00.294745 Received message: A query to the database with the number has been executed ID: 16
+Nats: 2024/02/07 15:00:00.295264 Received message: A query to the database with the number has been executed ID: 17
+Nats: 2024/02/07 15:00:00.295264 Received message: A query to the database with the number has been executed ID: 18
+Nats: 2024/02/07 15:00:00.295781 Received message: A query to the database with the number has been executed ID: 19
+Nats: 2024/02/07 15:00:00.295781 Received message: A query to the database with the number has been executed ID: 20
+Server: 2024/02/07 15:00:00 server.go:95: Successful data recovery from database
+Nats: 2024/02/07 15:00:00.296292 Received message: A query to the database with the number has been executed ID: 21
+Server: 2024/02/07 15:00:00 server.go:102: Successful creation of a backup
+Server: 2024/02/07 15:00:00 server.go:141: HTTP server is starting with IP: 127.0.0.1:8080
+Server: 2024/02/07 15:01:00 server.go:117: Server online 2024-02-07 15:01:00.3070181 +0300 MSK m=+60.578750901
+Server: 2024/02/07 15:01:09 server.go:133: Received signal: interrupt
+Server: 2024/02/07 15:01:09 server.go:219: Server is shutting down...
+Server: 2024/02/07 15:01:09 server.go:152: Shutting down the server...
+Server: 2024/02/07 15:01:09 server.go:158: Error restoring cache from the database: failed to get all IDs from the database: sql: database is closed
+Server: 2024/02/07 15:01:09 server.go:166: Successful creation of a backup
