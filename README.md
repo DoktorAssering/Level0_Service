@@ -20,7 +20,7 @@ In short, everything is written in the go language, with the exception of only t
 docker-compose up --build -d
 ```
 
-Проверьте работу приложения и Nginx через браузер или curl:
+- Проверьте работу приложения и Nginx через браузер или curl:
 ```shell
 curl http://localhost:80
 curl http://localhost:8080
@@ -28,7 +28,7 @@ docker-compose down
 docker-compose up --build -d
 ```
 
-Проверьте изменения через браузер или curl:
+- Проверьте изменения через браузер или curl:
 ```shell
 curl http://localhost:80
 ```
